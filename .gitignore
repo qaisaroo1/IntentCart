@@ -1,0 +1,23 @@
+# Environment variables
+.env
+*.env.local
+
+# Python
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+.pytest_cache/
+chroma_db/
+backend/chroma_db/
+*.sqlite3
+*.bin
+
+# Node.js
+node_modules/
+dist/
+.vite/
+
+# OS metadata
+Thumbs.db
+.DS_Store

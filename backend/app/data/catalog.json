@@ -1,0 +1,2695 @@
+[
+  {
+    "id": "laptop-001",
+    "name": "Lenovo ThinkBook 14\" Gen 6",
+    "brand": "Lenovo",
+    "category": "laptop",
+    "price": 649.99,
+    "currency": "USD",
+    "in_stock": true,
+    "shipping_fee": 0.0,
+    "specs": {
+      "cpu": "Intel Core i5-1335U",
+      "ram_gb": 16,
+      "storage_gb": 512,
+      "battery_hours": 9.5,
+      "weight_kg": 1.38,
+      "screen_size_inch": 14.0
+    },
+    "description": "Slim business and productivity laptop engineered for software development and multitasking.",
+    "review_summary": "Extremely quiet fan thermals under compiling workloads. Comfortable keyboard for long coding sessions. Solid all-day battery life.",
+    "pros": [
+      "Very quiet fan noise under load",
+      "Upgradable RAM slots",
+      "Tactile tactile keyboard"
+    ],
+    "cons": [
+      "Screen brightness capped at 300 nits",
+      "Average built-in webcam"
+    ]
+  },
+  {
+    "id": "laptop-002",
+    "name": "Acer Aspire 5 15.6\" Laptop",
+    "brand": "Acer",
+    "category": "laptop",
+    "price": 499.99,
+    "currency": "USD",
+    "in_stock": true,
+    "shipping_fee": 15.0,
+    "specs": {
+      "cpu": "AMD Ryzen 5 7520U",
+      "ram_gb": 16,
+      "storage_gb": 512,
+      "battery_hours": 7.0,
+      "weight_kg": 1.78,
+      "screen_size_inch": 15.6
+    },
+    "description": "Budget-friendly everyday laptop featuring modern Ryzen processing and full numeric keypad.",
+    "review_summary": "Great value for money with 16GB RAM at this price point. Fan kicks in audibly when multitasking heavily. Plastic chassis feels slightly flexible.",
+    "pros": [
+      "Unbeatable price-to-RAM ratio",
+      "NumPad included",
+      "Fast boot times"
+    ],
+    "cons": [
+      "Noticeable fan whine under load",
+      "Mediocre speaker volume"
+    ]
+  },
+  {
+    "id": "laptop-003",
+    "name": "ASUS Vivobook 15\" OLED Laptop",
+    "brand": "ASUS",
+    "category": "laptop",
+    "price": 689.0,
+    "currency": "USD",
+    "in_stock": true,
+    "shipping_fee": 0.0,
+    "specs": {
+      "cpu": "Intel Core i5-13500H",
+      "ram_gb": 16,
+      "storage_gb": 512,
+      "battery_hours": 6.5,
+      "weight_kg": 1.7,
+      "screen_size_inch": 15.6
+    },
+    "description": "Vibrant laptop with stunning OLED display and H-series high performance processor.",
+    "review_summary": "Incredible colors and screen contrast for movies and UI design. H-series CPU is fast for heavy scripts, but battery life drains faster than U-series laptops.",
+    "pros": [
+      "Gorgeous 100% DCI-P3 OLED screen",
+      "High-performance H-series processor",
+      "Crisp contrast"
+    ],
+    "cons": [
+      "Battery drains in 5-6 hours under heavy load",
+      "Glossy screen has reflections"
+    ]
+  },
+  {
+    "id": "laptop-004",
+    "name": "Dell Inspiron 14\" Laptop",
+    "brand": "Dell",
+    "category": "laptop",
+    "price": 629.99,
+    "currency": "USD",
+    "in_stock": true,
+    "shipping_fee": 0.0,
+    "specs": {
+      "cpu": "Intel Core i5-1335U",
+      "ram_gb": 16,
+      "storage_gb": 1024,
+      "battery_hours": 8.0,
+      "weight_kg": 1.54,
+      "screen_size_inch": 14.0
+    },
+    "description": "Reliable 14-inch laptop with a spacious 1TB SSD and balanced battery efficiency.",
+    "review_summary": "Generous 1TB storage out of the box. Fan remains quiet during web development and video conferencing. Trackpad is responsive.",
+    "pros": [
+      "Huge 1TB fast NVMe storage",
+      "Quiet everyday operation",
+      "Sturdy hinge design"
+    ],
+    "cons": [
+      "RAM is soldered and non-upgradable",
+      "Fingerprint magnet exterior"
+    ]
+  },
+  {
+    "id": "laptop-005",
+    "name": "HP Pavilion Aero 13.3\" Laptop",
+    "brand": "HP",
+    "category": "laptop",
+    "price": 699.99,
+    "currency": "USD",
+    "in_stock": true,
+    "shipping_fee": 0.0,
+    "specs": {
+      "cpu": "AMD Ryzen 7 7735U",
+      "ram_gb": 16,
+      "storage_gb": 512,
+      "battery_hours": 10.5,
+      "weight_kg": 0.99,
+      "screen_size_inch": 13.3
+    },
+    "description": "Ultra-lightweight magnesium laptop weighing under 1 kg with long-lasting battery life.",
+    "review_summary": "Extremely portable for travel and train commuting. Battery lasts over 10 hours of light coding. Runs slightly warm under full CPU benchmark stress.",
+    "pros": [
+      "Ultralight under 1kg weight",
+      "Exceptional 10+ hour battery life",
+      "Bright 400-nit screen"
+    ],
+    "cons": [
+      "Gets warm on your lap during intensive tasks",
+      "Small arrow keys"
+    ]
+  },
+  {
+    "id": "laptop-006",
+    "name": "Apple MacBook Air 13\" (M2)",
+    "brand": "Apple",
+    "category": "laptop",
+    "price": 999.0,
+    "currency": "USD",
+    "in_stock": true,
+    "shipping_fee": 0.0,
+    "specs": {
+      "cpu": "Apple M2 (8-core)",
+      "ram_gb": 8,
+      "storage_gb": 256,
+      "battery_hours": 15.0,
+      "weight_kg": 1.24,
+      "screen_size_inch": 13.6
+    },
+    "description": "Fanless ultraportable laptop powered by Apple Silicon with class-leading battery efficiency.",
+    "review_summary": "Zero fan noise because it has no fans. Unmatched 15-hour battery life. However, base model only includes 8GB unified memory and 256GB storage.",
+    "pros": [
+      "Completely silent (fanless)",
+      "Best-in-class battery endurance",
+      "Premium aluminum build"
+    ],
+    "cons": [
+      "Costs $999 (exceeds budget-conscious limits)",
+      "Only 8GB base RAM"
+    ]
+  },
+  {
+    "id": "laptop-007",
+    "name": "Lenovo IdeaPad 1 15.6\" Laptop",
+    "brand": "Lenovo",
+    "category": "laptop",
+    "price": 349.99,
+    "currency": "USD",
+    "in_stock": true,
+    "shipping_fee": 12.0,
+    "specs": {
+      "cpu": "AMD Ryzen 3 7320U",
+      "ram_gb": 8,
+      "storage_gb": 256,
+      "battery_hours": 6.5,
+      "weight_kg": 1.58,
+      "screen_size_inch": 15.6
+    },
+    "description": "Entry-level laptop for web browsing, student essays, and light terminal tasks.",
+    "review_summary": "Affordable entry machine. Good enough for basic Python scripting, but struggles if you run multiple Docker containers or heavy IDEs.",
+    "pros": [
+      "Very low price",
+      "Decent keyboard for typing",
+      "Lightweight for 15-inch"
+    ],
+    "cons": [
+      "TN display with poor viewing angles",
+      "Only 8GB non-upgradable RAM"
+    ]
+  },
+  {
+    "id": "laptop-008",
+    "name": "Framework 13\" Modular Laptop",
+    "brand": "Framework",
+    "category": "laptop",
+    "price": 849.0,
+    "currency": "USD",
+    "in_stock": false,
+    "shipping_fee": 0.0,
+    "specs": {
+      "cpu": "AMD Ryzen 5 7640U",
+      "ram_gb": 16,
+      "storage_gb": 512,
+      "battery_hours": 8.0,
+      "weight_kg": 1.3,
+      "screen_size_inch": 13.5
+    },
+    "description": "Modular, repairable laptop with swappable ports and open-source hardware ethos.",
+    "review_summary": "Incredible repairability and developer-friendly design. Modular expansion cards are genius. Currently sold out due to high demand.",
+    "pros": [
+      "10/10 repairability score",
+      "Swappable USB-C expansion cards",
+      "Great Linux support"
+    ],
+    "cons": [
+      "Currently Out of Stock",
+      "Higher base price"
+    ]
+  },
+  {
+    "id": "laptop-009",
+    "name": "Lenovo Legion 5 Pro Gaming Laptop",
+    "brand": "Lenovo",
+    "category": "laptop",
+    "price": 1299.99,
+    "currency": "USD",
+    "in_stock": true,
+    "shipping_fee": 0.0,
+    "specs": {
+      "cpu": "AMD Ryzen 7 7745HX",
+      "ram_gb": 32,
+      "storage_gb": 1024,
+      "battery_hours": 4.5,
+      "weight_kg": 2.5,
+      "screen_size_inch": 16.0
+    },
+    "description": "High-end workstation and gaming rig with dedicated RTX 4070 graphics for local LLMs.",
+    "review_summary": "Blistering performance for machine learning and 3D rendering. Heavy power brick and loud fans during maximum workload.",
+    "pros": [
+      "Dedicated RTX 4070 GPU",
+      "32GB high-speed DDR5 RAM",
+      "165Hz QHD display"
+    ],
+    "cons": [
+      "Expensive ($1,299)",
+      "Loud fans under full load",
+      "Heavy to carry"
+    ]
+  },
+  {
+    "id": "laptop-010",
+    "name": "ASUS Zenbook 14\" OLED Laptop",
+    "brand": "ASUS",
+    "category": "laptop",
+    "price": 799.99,
+    "currency": "USD",
+    "in_stock": true,
+    "shipping_fee": 0.0,
+    "specs": {
+      "cpu": "Intel Core Ultra 5 125H",
+      "ram_gb": 16,
+      "storage_gb": 512,
+      "battery_hours": 11.0,
+      "weight_kg": 1.28,
+      "screen_size_inch": 14.0
+    },
+    "description": "Premium ultraportable with AI-boosted Core Ultra processor and 120Hz OLED screen.",
+    "review_summary": "Superb battery life and whisper-quiet fans in whisper mode. Premium chassis. Slightly above strict $700 budget limit.",
+    "pros": [
+      "120Hz 3K OLED panel",
+      "Long 11-hour battery life",
+      "Built-in NPU for AI"
+    ],
+    "cons": [
+      "Price is $799 (just over budget for a $700 cap)"
+    ]
+  },
+  {
+    "id": "laptop-011",
+    "name": "Apple MacBook Pro 14\" (M3)",
+    "brand": "Apple",
+    "category": "laptop",
+    "price": 1599.0,
+    "currency": "USD",
+    "in_stock": true,
+    "shipping_fee": 0.0,
+    "specs": {
+      "cpu": "Apple M3 Pro (11-core)",
+      "ram_gb": 18,
+      "storage_gb": 512,
+      "battery_hours": 17.0,
+      "weight_kg": 1.61,
+      "screen_size_inch": 14.2
+    },
+    "description": "Professional engineering workstation featuring Liquid Retina XDR display and extreme battery endurance.",
+    "review_summary": "Incredible benchmark speeds and silent operation during heavy Xcode and Docker compiles. Expensive flagship pricing.",
+    "pros": [
+      "17-hour real battery life",
+      "Industry-best Liquid Retina XDR screen",
+      "Completely silent in standard workloads"
+    ],
+    "cons": [
+      "High price point ($1,599)",
+      "Non-upgradable unified storage"
+    ]
+  },
+  {
+    "id": "laptop-012",
+    "name": "Dell XPS 13 Plus Ultrabook",
+    "brand": "Dell",
+    "category": "laptop",
+    "price": 1149.0,
+    "currency": "USD",
+    "in_stock": true,
+    "shipping_fee": 0.0,
+    "specs": {
+      "cpu": "Intel Core i7-1360P",
+      "ram_gb": 16,
+      "storage_gb": 512,
+      "battery_hours": 8.5,
+      "weight_kg": 1.26,
+      "screen_size_inch": 13.4
+    },
+    "description": "Futuristic minimalist laptop with seamless glass haptic trackpad and edge-to-edge zero-lattice keyboard.",
+    "review_summary": "Stunning modern aesthetic. Haptic touchpad is smooth, though capacitive function keys take getting used to.",
+    "pros": [
+      "Gorgeous minimalist design",
+      "Sharp InfinityEdge screen",
+      "Very lightweight"
+    ],
+    "cons": [
+      "Capacitive touch function keys",
+      "Only 2 Thunderbolt ports"
+    ]
+  },
+  {
+    "id": "monitor-001",
+    "name": "Dell 27\" 4K UHD IPS Monitor",
+    "brand": "Dell",
+    "category": "monitor",
+    "price": 279.99,
+    "currency": "USD",
+    "in_stock": true,
+    "shipping_fee": 0.0,
+    "specs": {
+      "resolution": "3840 x 2160 (4K)",
+      "refresh_rate_hz": 60,
+      "panel_type": "IPS",
+      "screen_size_inch": 27.0,
+      "stand_adjustable": true
+    },
+    "description": "Crisp 4K IPS monitor designed for sharp code text and multitasking productivity.",
+    "review_summary": "Text clarity is razor-sharp for reading code and documentation. Fully ergonomic height-adjustable stand.",
+    "pros": [
+      "Razor sharp 4K text rendering",
+      "Height/pivot adjustable stand",
+      "Accurate IPS colors"
+    ],
+    "cons": [
+      "Limited to 60Hz refresh rate",
+      "No USB-C single cable charging"
+    ]
+  },
+  {
+    "id": "monitor-002",
+    "name": "LG 24\" QHD IPS FreeSync Monitor",
+    "brand": "LG",
+    "category": "monitor",
+    "price": 169.99,
+    "currency": "USD",
+    "in_stock": true,
+    "shipping_fee": 10.0,
+    "specs": {
+      "resolution": "2560 x 1440 (2K)",
+      "refresh_rate_hz": 75,
+      "panel_type": "IPS",
+      "screen_size_inch": 24.0,
+      "stand_adjustable": false
+    },
+    "description": "Compact high-density 1440p monitor offering crisp text without taking over your desk.",
+    "review_summary": "High pixel density at 24 inches makes programming text look great. Stand only tilts and cannot adjust height.",
+    "pros": [
+      "High pixel density in compact footprint",
+      "Affordable 1440p resolution",
+      "Color accurate IPS"
+    ],
+    "cons": [
+      "Fixed height stand (requires monitor arm)",
+      "No built-in speakers"
+    ]
+  },
+  {
+    "id": "monitor-003",
+    "name": "ASUS ProArt 27\" Creator Monitor",
+    "brand": "ASUS",
+    "category": "monitor",
+    "price": 319.0,
+    "currency": "USD",
+    "in_stock": true,
+    "shipping_fee": 0.0,
+    "specs": {
+      "resolution": "2560 x 1440 (2K)",
+      "refresh_rate_hz": 75,
+      "panel_type": "IPS",
+      "screen_size_inch": 27.0,
+      "stand_adjustable": true,
+      "usb_c_pd_watts": 65
+    },
+    "description": "Professional factory-calibrated monitor with 65W USB-C single cable laptop docking.",
+    "review_summary": "The 65W USB-C cable charges your laptop and sends display signal simultaneously. Perfect color reproduction for UI/UX work.",
+    "pros": [
+      "Single USB-C cable charges and displays",
+      "Delta E < 2 factory color calibration",
+      "Versatile 4-way stand"
+    ],
+    "cons": [
+      "Pricier than standard office 1440p screens"
+    ]
+  },
+  {
+    "id": "monitor-004",
+    "name": "Samsung ViewFinity 27\" 5K Monitor",
+    "brand": "Samsung",
+    "category": "monitor",
+    "price": 899.99,
+    "currency": "USD",
+    "in_stock": true,
+    "shipping_fee": 0.0,
+    "specs": {
+      "resolution": "5120 x 2880 (5K)",
+      "refresh_rate_hz": 60,
+      "panel_type": "IPS Matte",
+      "screen_size_inch": 27.0,
+      "stand_adjustable": true,
+      "usb_c_pd_watts": 90
+    },
+    "description": "Ultra-sharp 5K studio display designed for high-resolution macOS and Windows typography.",
+    "review_summary": "5K resolution means zero pixelation on code fonts. Includes 4K SlimFit magnetic webcam and matte anti-reflective finish.",
+    "pros": [
+      "Flawless 5K pixel density (218 PPI)",
+      "Matte glass eliminates office glare",
+      "90W USB-C power delivery"
+    ],
+    "cons": [
+      "Premium $899 price tag",
+      "Smart TV menu navigation can feel clunky"
+    ]
+  },
+  {
+    "id": "monitor-005",
+    "name": "Dell UltraSharp 34\" Curved Monitor",
+    "brand": "Dell",
+    "category": "monitor",
+    "price": 749.0,
+    "currency": "USD",
+    "in_stock": true,
+    "shipping_fee": 0.0,
+    "specs": {
+      "resolution": "3440 x 1440 (WQHD Ultrawide)",
+      "refresh_rate_hz": 60,
+      "panel_type": "IPS Black",
+      "screen_size_inch": 34.0,
+      "usb_c_pd_watts": 90
+    },
+    "description": "Ultrawide curved monitor equipped with IPS Black technology and built-in KVM switch.",
+    "review_summary": "Replaces two dual monitors seamlessly. Built-in KVM allows you to control a desktop and work laptop with one keyboard and mouse.",
+    "pros": [
+      "Expansive 21:9 ultrawide canvas for 3 windows",
+      "IPS Black offers 2000:1 deep contrast",
+      "Integrated KVM and RJ45 Ethernet"
+    ],
+    "cons": [
+      "Large desk footprint needed",
+      "60Hz refresh rate"
+    ]
+  },
+  {
+    "id": "monitor-006",
+    "name": "AOC 24\" Frameless 75Hz Monitor",
+    "brand": "AOC",
+    "category": "monitor",
+    "price": 89.99,
+    "currency": "USD",
+    "in_stock": true,
+    "shipping_fee": 10.0,
+    "specs": {
+      "resolution": "1920 x 1080 (FHD)",
+      "refresh_rate_hz": 75,
+      "panel_type": "IPS",
+      "screen_size_inch": 23.8,
+      "stand_adjustable": false
+    },
+    "description": "Budget essential 1080p monitor for secondary Slack and terminal monitoring.",
+    "review_summary": "Great cheap second monitor for terminal logs or Slack chat. Slim bezels look clean on budget setups.",
+    "pros": [
+      "Under $100 price tag",
+      "IPS viewing angles",
+      "Sleek frameless borders"
+    ],
+    "cons": [
+      "Only 1080p resolution",
+      "Basic tilt-only plastic stand"
+    ]
+  },
+  {
+    "id": "monitor-007",
+    "name": "LG UltraGear 27\" 165Hz QHD Monitor",
+    "brand": "LG",
+    "category": "monitor",
+    "price": 299.99,
+    "currency": "USD",
+    "in_stock": true,
+    "shipping_fee": 0.0,
+    "specs": {
+      "resolution": "2560 x 1440 (2K)",
+      "refresh_rate_hz": 165,
+      "panel_type": "Nano IPS",
+      "screen_size_inch": 27.0,
+      "stand_adjustable": true
+    },
+    "description": "High-refresh 165Hz gaming and productivity screen with ultra-responsive 1ms Nano IPS panel.",
+    "review_summary": "Smooth 165Hz scrolling makes code navigation feel instantaneous. Great color accuracy for dual gaming and work setups.",
+    "pros": [
+      "165Hz silky smooth refresh rate",
+      "1ms fast Nano IPS response",
+      "Ergonomic height and pivot stand"
+    ],
+    "cons": [
+      "Contrast ratio is standard 1000:1 (blacks are dark gray in dark rooms)",
+      "Gamer aesthetic accents"
+    ]
+  },
+  {
+    "id": "monitor-008",
+    "name": "ASUS ZenScreen 15.6\" Portable Monitor",
+    "brand": "ASUS",
+    "category": "monitor",
+    "price": 129.0,
+    "currency": "USD",
+    "in_stock": true,
+    "shipping_fee": 0.0,
+    "specs": {
+      "resolution": "1920 x 1080 (FHD)",
+      "refresh_rate_hz": 60,
+      "panel_type": "IPS Anti-Glare",
+      "screen_size_inch": 15.6,
+      "weight_kg": 0.78
+    },
+    "description": "Ultra-portable USB-C travel monitor powered by a single cable from your laptop.",
+    "review_summary": "Slides right into your backpack alongside your laptop. Perfect for dual-screen coding in coffee shops or hotels.",
+    "pros": [
+      "Weighs only 780 grams",
+      "Single USB-C cable for power and video",
+      "Anti-glare matte coating"
+    ],
+    "cons": [
+      "Limited to 250 nits brightness",
+      "Colors are slightly muted compared to primary screens"
+    ]
+  },
+  {
+    "id": "audio-001",
+    "name": "Sony WH-1000XM4 ANC Headphones",
+    "brand": "Sony",
+    "category": "audio",
+    "price": 248.0,
+    "currency": "USD",
+    "in_stock": true,
+    "shipping_fee": 0.0,
+    "specs": {
+      "battery_hours": 30,
+      "anc": true,
+      "multipoint_bluetooth": true,
+      "weight_g": 254
+    },
+    "description": "Industry-leading active noise canceling wireless headphones for deep focus in loud cafes and trains.",
+    "review_summary": "Blocks out background train rumble and cafe chatter completely. Cushions are comfortable for 6+ hour coding marathons.",
+    "pros": [
+      "Superb active noise cancellation",
+      "30-hour battery life",
+      "Can connect to laptop and phone simultaneously"
+    ],
+    "cons": [
+      "Microphone quality is just average in windy spots"
+    ]
+  },
+  {
+    "id": "audio-002",
+    "name": "Anker Soundcore Space One ANC Headphones",
+    "brand": "Anker",
+    "category": "audio",
+    "price": 99.99,
+    "currency": "USD",
+    "in_stock": true,
+    "shipping_fee": 0.0,
+    "specs": {
+      "battery_hours": 40,
+      "anc": true,
+      "multipoint_bluetooth": true,
+      "weight_g": 260
+    },
+    "description": "Budget-friendly noise canceling over-ear headphones with 40 hours of playtime.",
+    "review_summary": "Surprisingly competent noise cancellation at under $100. Great battery endurance and solid comfort for daily study and coding.",
+    "pros": [
+      "Great value under $100",
+      "40-hour ANC battery life",
+      "Customizable EQ app"
+    ],
+    "cons": [
+      "Bass is slightly boomy on default sound profile"
+    ]
+  },
+  {
+    "id": "audio-003",
+    "name": "Bose QuietComfort Ultra Headphones",
+    "brand": "Bose",
+    "category": "audio",
+    "price": 379.0,
+    "currency": "USD",
+    "in_stock": true,
+    "shipping_fee": 0.0,
+    "specs": {
+      "battery_hours": 24,
+      "anc": true,
+      "multipoint_bluetooth": true,
+      "weight_g": 250
+    },
+    "description": "Flagship acoustic headphones with world-class noise cancelation and spatial audio immersion.",
+    "review_summary": "The gold standard in comfort and clamping force. ANC eliminates low-frequency drone better than any competitor. Expensive.",
+    "pros": [
+      "Plush cloud-like headband comfort",
+      "Class-leading active noise silencing",
+      "Immersive spatial audio mode"
+    ],
+    "cons": [
+      "Higher price tag ($379)",
+      "Battery life is 24 hours (less than Sony's 30h)"
+    ]
+  },
+  {
+    "id": "audio-004",
+    "name": "Apple AirPods Pro 2 (USB-C)",
+    "brand": "Apple",
+    "category": "audio",
+    "price": 199.99,
+    "currency": "USD",
+    "in_stock": true,
+    "shipping_fee": 0.0,
+    "specs": {
+      "battery_hours": 6.0,
+      "case_battery_hours": 30,
+      "anc": true,
+      "transparency_mode": true
+    },
+    "description": "Pocket-sized true wireless earbuds with adaptive audio and transparent voice pass-through.",
+    "review_summary": "Transparency mode sounds completely natural like you're wearing nothing. Seamless automatic switching across Apple devices.",
+    "pros": [
+      "Unmatched natural transparency mode",
+      "Compact pocketable MagSafe case",
+      "H2 chip spatial audio"
+    ],
+    "cons": [
+      "Best features require Apple ecosystem",
+      "Earbud tips require proper sizing fit"
+    ]
+  },
+  {
+    "id": "audio-005",
+    "name": "Sennheiser HD 560S Open-Back Headphones",
+    "brand": "Sennheiser",
+    "category": "audio",
+    "price": 179.95,
+    "currency": "USD",
+    "in_stock": true,
+    "shipping_fee": 0.0,
+    "specs": {
+      "connectivity": "Wired 3.5mm/6.3mm",
+      "acoustic_design": "Open-Back Reference",
+      "frequency_hz": "6 - 38,000",
+      "weight_g": 240
+    },
+    "description": "Reference-grade audiophile open-back headphones delivering expansive soundstage for music and editing.",
+    "review_summary": "Soundstage is wide and airy. You hear instrument separation with clinical accuracy. Open-back design means sound leaks out.",
+    "pros": [
+      "Neutral reference audio reproduction",
+      "Wide natural soundstage",
+      "Velour ear pads don't sweat"
+    ],
+    "cons": [
+      "Zero passive noise isolation (leaks sound)",
+      "No built-in microphone"
+    ]
+  },
+  {
+    "id": "audio-006",
+    "name": "Audio-Technica ATH-M20x Bluetooth Headphones",
+    "brand": "Audio-Technica",
+    "category": "audio",
+    "price": 79.0,
+    "currency": "USD",
+    "in_stock": true,
+    "shipping_fee": 0.0,
+    "specs": {
+      "battery_hours": 60,
+      "connectivity": "Bluetooth 5.0 / 3.5mm",
+      "anc": false,
+      "weight_g": 216
+    },
+    "description": "Legendary studio monitor series tuned for flat, accurate sound reproduction with massive 60-hour battery.",
+    "review_summary": "Incredible 60-hour battery life\u2014only need to charge once a month. Sound signature is balanced without bloated bass.",
+    "pros": [
+      "Massive 60-hour battery endurance",
+      "Flat accurate audio tuning",
+      "Low latency audio mode"
+    ],
+    "cons": [
+      "No active noise cancellation (passive isolation only)",
+      "Earcups don't fold flat"
+    ]
+  },
+  {
+    "id": "audio-007",
+    "name": "Jabra Evolve2 65 Flex Wireless Headset",
+    "brand": "Jabra",
+    "category": "audio",
+    "price": 269.0,
+    "currency": "USD",
+    "in_stock": true,
+    "shipping_fee": 0.0,
+    "specs": {
+      "battery_hours": 32,
+      "anc": true,
+      "microphone": "Foldable Noise-Canceling Boom",
+      "weight_g": 136
+    },
+    "description": "Compact foldable hybrid-work headset designed for crystal-clear client Zoom and Teams meetings.",
+    "review_summary": "Microphone boom arm cancels barking dogs and keyboard clicks on calls. Folds flat into a tiny travel pouch.",
+    "pros": [
+      "Broadcast quality call microphone",
+      "Foldable compact hinge design",
+      "Busy-light indicator alerts family"
+    ],
+    "cons": [
+      "On-ear design presses against ears over long periods"
+    ]
+  },
+  {
+    "id": "audio-008",
+    "name": "Sony WF-C500 True Wireless Earbuds",
+    "brand": "Sony",
+    "category": "audio",
+    "price": 59.99,
+    "currency": "USD",
+    "in_stock": true,
+    "shipping_fee": 0.0,
+    "specs": {
+      "battery_hours": 10,
+      "case_battery_hours": 20,
+      "water_resistance": "IPX4",
+      "weight_g": 35
+    },
+    "description": "Pocket true wireless earbuds with custom EQ sound profiles and IPX4 splash resistance.",
+    "review_summary": "Punchy sound and 10 hours continuous playback on the buds alone. Solid budget earbuds for gym and coding.",
+    "pros": [
+      "Exceptional 10h bud battery life",
+      "Comfortable lightweight fit",
+      "Customizable sound app"
+    ],
+    "cons": [
+      "No active noise cancellation",
+      "Case only provides 1 extra recharge"
+    ]
+  },
+  {
+    "id": "keyboard-001",
+    "name": "Keychron K2 Pro Wireless Mechanical Keyboard",
+    "brand": "Keychron",
+    "category": "keyboard",
+    "price": 89.0,
+    "currency": "USD",
+    "in_stock": true,
+    "shipping_fee": 0.0,
+    "specs": {
+      "connectivity": "Bluetooth 5.1 / Type-C",
+      "switch_type": "Keychron K Pro Red (Linear / Quiet)",
+      "layout": "75% Compact",
+      "hot_swappable": true
+    },
+    "description": "Custom mechanical keyboard with quiet linear switches and Mac/Windows cross-compatibility.",
+    "review_summary": "Quiet red switches are polite in office environments and on microphone calls. Sturdy typing feel with QMK/VIA key remapping.",
+    "pros": [
+      "Quiet linear switches",
+      "Full QMK/VIA software key remapping",
+      "Mac and Windows keycaps included"
+    ],
+    "cons": [
+      "Thick profile requires a wrist rest for some users"
+    ]
+  },
+  {
+    "id": "keyboard-002",
+    "name": "Logitech MX Keys S Wireless Keyboard",
+    "brand": "Logitech",
+    "category": "keyboard",
+    "price": 109.99,
+    "currency": "USD",
+    "in_stock": true,
+    "shipping_fee": 0.0,
+    "specs": {
+      "connectivity": "Logi Bolt / Bluetooth",
+      "switch_type": "Low-Profile Scissor Keys (Silent)",
+      "layout": "Full Size 100%",
+      "backlight": "Smart Proximity White"
+    },
+    "description": "Sleek low-profile membrane keyboard engineered for silent, fast typing across multiple machines.",
+    "review_summary": "Virtually silent typing feel. Seamless switching between work laptop and personal desktop with the press of 1 button.",
+    "pros": [
+      "Whisper-silent keystrokes",
+      "Multi-device fast switching",
+      "Smart hand-sensing backlighting"
+    ],
+    "cons": [
+      "Non-mechanical shallow travel",
+      "Keys are non-swappable"
+    ]
+  },
+  {
+    "id": "keyboard-003",
+    "name": "Keychron V1 Custom Mechanical Keyboard",
+    "brand": "Keychron",
+    "category": "keyboard",
+    "price": 69.0,
+    "currency": "USD",
+    "in_stock": true,
+    "shipping_fee": 8.0,
+    "specs": {
+      "connectivity": "Wired Type-C",
+      "switch_type": "Keychron Brown (Tactile)",
+      "layout": "75% Compact",
+      "programmable_knob": true
+    },
+    "description": "Entry custom mechanical keyboard featuring programmable sound volume knob and sound-dampening silicone.",
+    "review_summary": "The rotary knob for volume and zoom is super convenient. Solid acoustics out of the box with factory-lubed switches.",
+    "pros": [
+      "Tactile rotary aluminum knob",
+      "Hot-swappable switch sockets",
+      "Great acoustics out of the box"
+    ],
+    "cons": [
+      "Wired only (no Bluetooth)",
+      "ABS plastic case"
+    ]
+  },
+  {
+    "id": "keyboard-004",
+    "name": "Logitech Ergo K860 Split Ergonomic Keyboard",
+    "brand": "Logitech",
+    "category": "keyboard",
+    "price": 129.99,
+    "currency": "USD",
+    "in_stock": true,
+    "shipping_fee": 0.0,
+    "specs": {
+      "connectivity": "Bluetooth / Unifying",
+      "design": "Curved Split Keyframe",
+      "wrist_rest": "Pillow Cushion Attached",
+      "layout": "Full Size"
+    },
+    "description": "Ergonomic split keyboard proven to reduce forearm muscle strain and promote natural posture.",
+    "review_summary": "Fixed my wrist pain after typing 8 hours a day. The curved wave layout and pillowed wrist pad take pressure off carpal tunnels.",
+    "pros": [
+      "Relieves wrist and forearm tendon strain",
+      "Pillow palm rest with adjustable lift",
+      "Smooth quiet typing keys"
+    ],
+    "cons": [
+      "Takes 3-5 days to adjust typing habits",
+      "Non-detachable wrist pad"
+    ]
+  },
+  {
+    "id": "keyboard-005",
+    "name": "NuPhy Air75 V2 Low-Profile Mechanical Keyboard",
+    "brand": "NuPhy",
+    "category": "keyboard",
+    "price": 119.95,
+    "currency": "USD",
+    "in_stock": true,
+    "shipping_fee": 0.0,
+    "specs": {
+      "connectivity": "2.4GHz / Bluetooth / Type-C",
+      "switch_type": "Gateron Low-Profile Cowberry",
+      "layout": "75% Ultra-Slim",
+      "polling_rate_hz": 1000
+    },
+    "description": "Ultra-thin portable mechanical keyboard that can sit directly on top of your laptop's built-in keyboard.",
+    "review_summary": "Extremely slim and travels easily in a sleeve. Sounds surprisingly creamy and deep for a low-profile board.",
+    "pros": [
+      "Ultra-slim 16mm profile",
+      "Can sit directly over MacBook keyboards",
+      "Triple connectivity with 1000Hz gaming mode"
+    ],
+    "cons": [
+      "Low profile keycaps have limited third-party replacement options"
+    ]
+  },
+  {
+    "id": "keyboard-006",
+    "name": "Logitech K380 Multi-Device Bluetooth Keyboard",
+    "brand": "Logitech",
+    "category": "keyboard",
+    "price": 29.99,
+    "currency": "USD",
+    "in_stock": true,
+    "shipping_fee": 5.0,
+    "specs": {
+      "connectivity": "Bluetooth 3.0",
+      "battery_life_years": 2.0,
+      "layout": "Compact Tenkeyless",
+      "weight_g": 423
+    },
+    "description": "Ultra-affordable, portable Bluetooth keyboard for tablets, laptops, and smart TVs.",
+    "review_summary": "Amazing cheap travel keyboard. Two AAA batteries last 2 entire years. Small rounded keys are quiet in libraries.",
+    "pros": [
+      "Under $35 price point",
+      "2-year battery life on 2x AAA",
+      "Instant 3-device toggle buttons"
+    ],
+    "cons": [
+      "No backlighting",
+      "Circular keycaps take getting used to"
+    ]
+  },
+  {
+    "id": "keyboard-007",
+    "name": "Razer BlackWidow V4 Pro Mechanical Keyboard",
+    "brand": "Razer",
+    "category": "keyboard",
+    "price": 199.99,
+    "currency": "USD",
+    "in_stock": true,
+    "shipping_fee": 0.0,
+    "specs": {
+      "connectivity": "Wired Type-C",
+      "switch_type": "Razer Green (Clicky / Loud)",
+      "polling_rate_hz": 8000,
+      "macro_keys": 8
+    },
+    "description": "Feature-packed full-sized gaming keyboard with dedicated command dial, macro keys, and underglow RGB.",
+    "review_summary": "Very loud clicky switches. Great tactile response for gaming, but co-workers will definitely hear you typing on mic calls.",
+    "pros": [
+      "Tactile command dial and 8 macro keys",
+      "8,000Hz hyper-polling rate",
+      "Magnetic plush leatherette wrist rest"
+    ],
+    "cons": [
+      "Very loud clicky switches (not for quiet offices)",
+      "Expensive"
+    ]
+  },
+  {
+    "id": "keyboard-008",
+    "name": "Redragon K552 Compact Mechanical Keyboard",
+    "brand": "Redragon",
+    "category": "keyboard",
+    "price": 36.99,
+    "currency": "USD",
+    "in_stock": true,
+    "shipping_fee": 6.0,
+    "specs": {
+      "connectivity": "Wired USB",
+      "switch_type": "Outemu Blue (Clicky)",
+      "layout": "TKL 87 Keys",
+      "backlight": "Red LED"
+    },
+    "description": "Popular budget entry mechanical keyboard built on a sturdy metal-alloy frame.",
+    "review_summary": "Built like a tank for under $40. Authentic mechanical clack, though switches are audibly loud.",
+    "pros": [
+      "Incredible value under $40",
+      "Rigid metal chassis",
+      "Splash-proof design"
+    ],
+    "cons": [
+      "Loud clicky acoustic signature",
+      "Only red LED backlighting"
+    ]
+  },
+  {
+    "id": "mouse-001",
+    "name": "Logitech MX Master 3S Wireless Mouse",
+    "brand": "Logitech",
+    "category": "mouse",
+    "price": 99.99,
+    "currency": "USD",
+    "in_stock": true,
+    "shipping_fee": 0.0,
+    "specs": {
+      "connectivity": "Bluetooth / Logi Bolt",
+      "sensor_dpi": 8000,
+      "battery_days": 70,
+      "clicks": "Quiet Acoustic Clicks (90% noise reduction)"
+    },
+    "description": "Ergonomic productivity mouse featuring ultra-quiet clicks and electromagnetic MagSpeed scrolling.",
+    "review_summary": "The gold standard mouse for coders and power users. Clicks are almost completely silent. Horizontal thumb wheel is great for wide code lines.",
+    "pros": [
+      "Nearly silent click switches",
+      "MagSpeed 1,000 lines/second scroll wheel",
+      "Thumb wheel for horizontal code scrolling"
+    ],
+    "cons": [
+      "Right-hand only ergonomic shape",
+      "Too heavy for fast competitive FPS gaming"
+    ]
+  },
+  {
+    "id": "mouse-002",
+    "name": "Logitech Lift Vertical Ergonomic Mouse",
+    "brand": "Logitech",
+    "category": "mouse",
+    "price": 69.99,
+    "currency": "USD",
+    "in_stock": true,
+    "shipping_fee": 0.0,
+    "specs": {
+      "connectivity": "Bluetooth / Bolt",
+      "angle_degrees": 57,
+      "battery_months": 24,
+      "clicks": "Silent Acoustic"
+    },
+    "description": "Vertical ergonomic mouse with 57-degree handshake posture tailored for small-to-medium hands.",
+    "review_summary": "Takes all tension off your forearm tendons. Whisper-quiet clicks and smart magnetic scroll wheel.",
+    "pros": [
+      "57-degree natural handshake posture relieves wrist strain",
+      "Whisper-quiet clicks",
+      "2-year AA battery endurance"
+    ],
+    "cons": [
+      "Smaller size not ideal for people with large hands"
+    ]
+  },
+  {
+    "id": "mouse-003",
+    "name": "Razer DeathAdder V3 Pro Wireless Gaming Mouse",
+    "brand": "Razer",
+    "category": "mouse",
+    "price": 149.99,
+    "currency": "USD",
+    "in_stock": true,
+    "shipping_fee": 0.0,
+    "specs": {
+      "weight_g": 63,
+      "connectivity": "HyperSpeed Wireless",
+      "sensor_dpi": 30000,
+      "battery_hours": 90
+    },
+    "description": "Pro-grade ultra-lightweight ergonomic mouse weighing only 63g with optical switches.",
+    "review_summary": "Feels weightless in the hand. Optical mouse switches eliminate double-click debounce issues forever.",
+    "pros": [
+      "Ultralight 63g weight reduces wrist fatigue",
+      "Gen-3 optical switches won't double-click",
+      "30K Focus Pro sensor"
+    ],
+    "cons": [
+      "Priced at $149",
+      "Clicks have a hollow mechanical snap"
+    ]
+  },
+  {
+    "id": "mouse-004",
+    "name": "Logitech MX Anywhere 3S Compact Wireless Mouse",
+    "brand": "Logitech",
+    "category": "mouse",
+    "price": 79.99,
+    "currency": "USD",
+    "in_stock": true,
+    "shipping_fee": 0.0,
+    "specs": {
+      "connectivity": "Bluetooth / Bolt",
+      "sensor_dpi": 8000,
+      "battery_days": 70,
+      "tracks_on_glass": true
+    },
+    "description": "Compact travel mouse with silent clicks and sensor that tracks on any surface including clear glass cafe tables.",
+    "review_summary": "Perfect travel companion for coffee shops. MagSpeed scroll wheel in a compact pocket size.",
+    "pros": [
+      "Tracks seamlessly on glass tables",
+      "MagSpeed metal scroll wheel",
+      "Compact portable size"
+    ],
+    "cons": [
+      "No dedicated horizontal thumb wheel"
+    ]
+  },
+  {
+    "id": "mouse-005",
+    "name": "Logitech Ergo M575 Wireless Trackball Mouse",
+    "brand": "Logitech",
+    "category": "mouse",
+    "price": 49.99,
+    "currency": "USD",
+    "in_stock": true,
+    "shipping_fee": 0.0,
+    "specs": {
+      "connectivity": "Bluetooth / USB",
+      "control": "Thumb Trackball",
+      "battery_months": 24
+    },
+    "description": "Stationary thumb-controlled trackball mouse ideal for cramped desks and zero-movement ergonomics.",
+    "review_summary": "Your arm stays 100% still\u2014only your thumb moves. Perfect for small coffee shop tables or carpal tunnel relief.",
+    "pros": [
+      "Zero arm or wrist movement needed",
+      "Operates on uneven surfaces and tight desks",
+      "2-year single AA battery life"
+    ],
+    "cons": [
+      "Learning curve for thumb precision tracking"
+    ]
+  },
+  {
+    "id": "mouse-006",
+    "name": "Logitech Pebble M350 Slim Bluetooth Mouse",
+    "brand": "Logitech",
+    "category": "mouse",
+    "price": 19.99,
+    "currency": "USD",
+    "in_stock": true,
+    "shipping_fee": 4.0,
+    "specs": {
+      "connectivity": "Bluetooth / USB",
+      "clicks": "Silent",
+      "profile": "Flat Slim",
+      "weight_g": 78
+    },
+    "description": "Minimalist, flat pocket mouse with 90% noise-reduced silent clicks.",
+    "review_summary": "Slips flat into your laptop bag pocket without bulging. Extremely quiet clicks for public library studying.",
+    "pros": [
+      "Under $20 price tag",
+      "Flat pocketable shape",
+      "Silent click sound"
+    ],
+    "cons": [
+      "Flat profile lacks ergonomic palm support for long work sessions"
+    ]
+  },
+  {
+    "id": "tech-001",
+    "name": "CalDigit TS4 Thunderbolt 4 Dock (18-in-1)",
+    "brand": "CalDigit",
+    "category": "desk_tech",
+    "price": 399.95,
+    "currency": "USD",
+    "in_stock": true,
+    "shipping_fee": 0.0,
+    "specs": {
+      "ports_count": 18,
+      "charging_power_watts": 98,
+      "ethernet_speed": "2.5 Gigabit",
+      "card_readers": "SD / microSD UHS-II"
+    },
+    "description": "The benchmark 18-port Thunderbolt 4 docking station providing 98W laptop charging and dual 6K display support.",
+    "review_summary": "One single Thunderbolt cable turns your laptop into a full desktop workstation with dual monitors, Ethernet, audio, and fast USB ports.",
+    "pros": [
+      "18 comprehensive expansion ports",
+      "98W full laptop power delivery",
+      "2.5Gb fast Ethernet jack"
+    ],
+    "cons": [
+      "Expensive ($399) investment",
+      "Heavy aluminum chassis meant for permanent desks"
+    ]
+  },
+  {
+    "id": "tech-002",
+    "name": "Anker 555 USB-C Hub (8-in-1)",
+    "brand": "Anker",
+    "category": "desk_tech",
+    "price": 49.99,
+    "currency": "USD",
+    "in_stock": true,
+    "shipping_fee": 0.0,
+    "specs": {
+      "ports": "HDMI 4K@60Hz, 100W PD-IN, Ethernet, SD/TF, 2x USB-A, USB-C",
+      "weight_g": 110
+    },
+    "description": "Compact 8-in-1 USB-C travel hub supporting 4K 60Hz video output and 85W pass-through charging.",
+    "review_summary": "The essential dongle every modern laptop owner needs. Reliable 4K 60Hz HDMI video and Gigabit Ethernet in a slim pouch.",
+    "pros": [
+      "Supports true 4K@60Hz HDMI",
+      "Gigabit Ethernet included",
+      "Compact pocket size"
+    ],
+    "cons": [
+      "Runs slightly warm to the touch during full 85W charging"
+    ]
+  },
+  {
+    "id": "tech-003",
+    "name": "Logitech Brio 4K Ultra HD Webcam",
+    "brand": "Logitech",
+    "category": "desk_tech",
+    "price": 139.99,
+    "currency": "USD",
+    "in_stock": true,
+    "shipping_fee": 0.0,
+    "specs": {
+      "resolution": "4K Ultra HD @ 30fps / 1080p @ 60fps",
+      "hdr": "RightLight 3",
+      "field_of_view_deg": "65/78/90",
+      "windows_hello": true
+    },
+    "description": "Professional 4K streaming webcam with HDR light compensation and Windows Hello facial recognition login.",
+    "review_summary": "Makes you look crystal clear on Zoom calls even in back-lit rooms. Windows Hello instant face login is super fast.",
+    "pros": [
+      "Crisp 4K sensor with HDR auto-exposure",
+      "Windows Hello facial unlock",
+      "Adjustable 65/78/90 field of view"
+    ],
+    "cons": [
+      "Requires USB 3.0 port for full 4K bandwidth"
+    ]
+  },
+  {
+    "id": "tech-004",
+    "name": "Shure MV7+ Dynamic Podcast Microphone",
+    "brand": "Shure",
+    "category": "desk_tech",
+    "price": 279.0,
+    "currency": "USD",
+    "in_stock": true,
+    "shipping_fee": 0.0,
+    "specs": {
+      "connectivity": "USB-C / XLR Dual Output",
+      "type": "Dynamic Cardioid",
+      "dsp": "Voice Isolation & Auto-Level",
+      "headphone_out": "3.5mm Zero Latency"
+    },
+    "description": "Broadcast-quality dynamic microphone with onboard DSP noise reduction and dual USB-C/XLR connectivity.",
+    "review_summary": "Gives your voice that rich radio broadcast warmth. Dynamic capsule rejects background room echo and fan noise effortlessly.",
+    "pros": [
+      "Broadcast radio voice quality",
+      "Rejects room reverb and fan noise",
+      "Direct USB-C plug-and-play with DSP"
+    ],
+    "cons": [
+      "Requires speaking close to the capsule (2-4 inches)",
+      "Microphone arm stand sold separately"
+    ]
+  },
+  {
+    "id": "tech-005",
+    "name": "BenQ ScreenBar Halo Wireless Monitor Light",
+    "brand": "BenQ",
+    "category": "desk_tech",
+    "price": 179.0,
+    "currency": "USD",
+    "in_stock": true,
+    "shipping_fee": 0.0,
+    "specs": {
+      "control": "Wireless Rotary Dial",
+      "lighting": "Dual Front & Back Ambient",
+      "auto_dimming": true,
+      "screen_glare": "Zero Reflected Glare"
+    },
+    "description": "Monitor-mounted smart desk lamp with wireless rotary dial controller and zero screen glare.",
+    "review_summary": "Saves desk space by resting directly on top of your monitor. Illuminates your keyboard and notes without reflecting into your eyes.",
+    "pros": [
+      "Zero screen reflection glare",
+      "Wireless desktop puck dial",
+      "Rear bias lighting eases eye strain"
+    ],
+    "cons": [
+      "Premium price for a desk lamp"
+    ]
+  },
+  {
+    "id": "tech-006",
+    "name": "Anker Prime 100W GaN 3-Port Wall Charger",
+    "brand": "Anker",
+    "category": "desk_tech",
+    "price": 79.99,
+    "currency": "USD",
+    "in_stock": true,
+    "shipping_fee": 0.0,
+    "specs": {
+      "ports": "2x USB-C, 1x USB-A",
+      "total_output_watts": 100,
+      "technology": "GaNPrime",
+      "foldable_prongs": true
+    },
+    "description": "Ultra-compact 100W high-speed charger capable of powering a laptop, phone, and watch simultaneously.",
+    "review_summary": "Half the size of a standard laptop charger brick. Intelligently balances 100W power between your laptop and phone.",
+    "pros": [
+      "Powers laptop and phone simultaneously",
+      "43% smaller than standard 96W brick",
+      "ActiveShield temperature monitoring"
+    ],
+    "cons": [
+      "Prongs can be tight on loose airplane wall sockets"
+    ]
+  },
+  {
+    "id": "tech-007",
+    "name": "Quntis ScreenLinear Monitor Light Bar",
+    "brand": "Quntis",
+    "category": "desk_tech",
+    "price": 39.99,
+    "currency": "USD",
+    "in_stock": true,
+    "shipping_fee": 0.0,
+    "specs": {
+      "control": "Touch Controls",
+      "color_temp_k": "3000K - 6500K",
+      "powered_by": "USB-A to Monitor Port"
+    },
+    "description": "Affordable monitor light bar with auto-dimming sensor and adjustable color temperatures.",
+    "review_summary": "Great budget alternative to BenQ. Plugs directly into your monitor's USB port and lights up your desk perfectly.",
+    "pros": [
+      "Under $40 price tag",
+      "Auto-dimming ambient light sensor",
+      "Adjustable warm to cool light"
+    ],
+    "cons": [
+      "Touch buttons on the light bar itself rather than a desktop dial"
+    ]
+  },
+  {
+    "id": "tech-008",
+    "name": "Razer Seiren Mini Compact USB Microphone",
+    "brand": "Razer",
+    "category": "desk_tech",
+    "price": 39.99,
+    "currency": "USD",
+    "in_stock": true,
+    "shipping_fee": 5.0,
+    "specs": {
+      "pickup_pattern": "Supercardioid",
+      "connectivity": "USB Plug & Play",
+      "sampling_rate_bit": "16-bit 48kHz",
+      "form_factor": "Compact Pill"
+    },
+    "description": "Compact condenser microphone tuned to focus on your voice while dampening background keyboard chatter.",
+    "review_summary": "Massive audio upgrade over built-in laptop microphones for under $40. Plug and play USB with no drivers needed.",
+    "pros": [
+      "Affordable under $40",
+      "Tight supercardioid voice pickup",
+      "Tiny footprint on your desk"
+    ],
+    "cons": [
+      "No physical mute button on the microphone body"
+    ]
+  },
+  {
+    "id": "laptop-013",
+    "name": "Lenovo ThinkPad E14 Gen 5 Laptop",
+    "brand": "Lenovo",
+    "category": "laptop",
+    "price": 619.0,
+    "currency": "USD",
+    "in_stock": true,
+    "shipping_fee": 0.0,
+    "specs": {
+      "cpu": "AMD Ryzen 5 7530U",
+      "ram_gb": 16,
+      "storage_gb": 512,
+      "battery_hours": 9.0,
+      "weight_kg": 1.41,
+      "screen_size_inch": 14.0
+    },
+    "description": "Classic durable business laptop with legendary ThinkPad keyboard ergonomics and military-grade durability.",
+    "review_summary": "Typing feel is unmatched for long coding sessions. Excellent thermal management and very quiet fan curve.",
+    "pros": [
+      "Best-in-class keyboard ergonomics",
+      "Upgradeable dual-channel RAM",
+      "Durable aluminum top cover"
+    ],
+    "cons": [
+      "Display maxes out at 300 nits"
+    ]
+  },
+  {
+    "id": "laptop-014",
+    "name": "LG Gram 16\" Ultralight Laptop",
+    "brand": "LG",
+    "category": "laptop",
+    "price": 1199.0,
+    "currency": "USD",
+    "in_stock": true,
+    "shipping_fee": 0.0,
+    "specs": {
+      "cpu": "Intel Core Ultra 7 155H",
+      "ram_gb": 16,
+      "storage_gb": 1024,
+      "battery_hours": 14.0,
+      "weight_kg": 1.19,
+      "screen_size_inch": 16.0
+    },
+    "description": "Featherweight 16-inch productivity laptop with immense battery endurance and anti-glare IPS display.",
+    "review_summary": "Unbelievably light for a 16-inch screen. Battery easily lasts through a full 12-hour flight or workday.",
+    "pros": [
+      "Astonishingly lightweight at 1.19kg",
+      "14+ hours real world battery",
+      "Spacious 16:10 display"
+    ],
+    "cons": [
+      "Chassis has some slight flex due to ultra-light magnesium"
+    ]
+  },
+  {
+    "id": "laptop-015",
+    "name": "Microsoft Surface Laptop 5 13.5\"",
+    "brand": "Microsoft",
+    "category": "laptop",
+    "price": 799.99,
+    "currency": "USD",
+    "in_stock": true,
+    "shipping_fee": 0.0,
+    "specs": {
+      "cpu": "Intel Core i5-1235U",
+      "ram_gb": 8,
+      "storage_gb": 256,
+      "battery_hours": 11.0,
+      "weight_kg": 1.27,
+      "screen_size_inch": 13.5
+    },
+    "description": "Sleek touchscreen ultrabook with 3:2 aspect ratio display optimized for reading docs and coding.",
+    "review_summary": "Premium build quality with responsive touchscreen. 3:2 aspect ratio shows noticeably more lines of code.",
+    "pros": [
+      "Tall 3:2 aspect ratio vertical screen",
+      "Premium anodized finish",
+      "Silent fan operation during office work"
+    ],
+    "cons": [
+      "8GB RAM is soldered and cannot be expanded"
+    ]
+  },
+  {
+    "id": "laptop-016",
+    "name": "Razer Blade 14\" Gaming Laptop",
+    "brand": "Razer",
+    "category": "laptop",
+    "price": 1799.99,
+    "currency": "USD",
+    "in_stock": true,
+    "shipping_fee": 0.0,
+    "specs": {
+      "cpu": "AMD Ryzen 9 7940HS",
+      "ram_gb": 16,
+      "storage_gb": 1024,
+      "battery_hours": 7.5,
+      "weight_kg": 1.84,
+      "screen_size_inch": 14.0
+    },
+    "description": "Ultra-portable CNC aluminum powerhouse with RTX 4060 graphics for machine learning and game development.",
+    "review_summary": "Unrivaled CNC unibody craftsmanship. Incredible GPU performance packed into a backpack-friendly 14-inch chassis.",
+    "pros": [
+      "Vapor chamber cooling system",
+      "Crisp 240Hz QHD+ display",
+      "Superb Mac-like trackpad"
+    ],
+    "cons": [
+      "Premium price point",
+      "AC power adapter is slightly heavy"
+    ]
+  },
+  {
+    "id": "laptop-017",
+    "name": "Samsung Galaxy Book4 Pro 14\"",
+    "brand": "Samsung",
+    "category": "laptop",
+    "price": 1349.0,
+    "currency": "USD",
+    "in_stock": true,
+    "shipping_fee": 0.0,
+    "specs": {
+      "cpu": "Intel Core Ultra 7 155H",
+      "ram_gb": 16,
+      "storage_gb": 512,
+      "battery_hours": 12.0,
+      "weight_kg": 1.23,
+      "screen_size_inch": 14.0
+    },
+    "description": "Dynamic AMOLED 2X 120Hz display with seamless ecosystem sync for Galaxy tablets and smartphones.",
+    "review_summary": "The AMOLED screen has jaw-dropping contrast and vibrant colors. Ultra-slim profile slips into any sleeve.",
+    "pros": [
+      "Stunning 3K 120Hz Dynamic AMOLED display",
+      "AKG tuned quad speakers",
+      "Ultra-fast charging via USB-C"
+    ],
+    "cons": [
+      "Keyboard travel is relatively shallow"
+    ]
+  },
+  {
+    "id": "laptop-018",
+    "name": "HP Envy x360 15.6\" 2-in-1 Laptop",
+    "brand": "HP",
+    "category": "laptop",
+    "price": 679.99,
+    "currency": "USD",
+    "in_stock": true,
+    "shipping_fee": 0.0,
+    "specs": {
+      "cpu": "AMD Ryzen 7 7730U",
+      "ram_gb": 16,
+      "storage_gb": 512,
+      "battery_hours": 10.0,
+      "weight_kg": 1.52,
+      "screen_size_inch": 15.6
+    },
+    "description": "Versatile convertible touchscreen laptop with 360-degree geared hinge for sketching, notes, and multitasking.",
+    "review_summary": "Great hinge flexibility for switching between tent mode and laptop mode. Ryzen 7 provides smooth multitasking.",
+    "pros": [
+      "360-degree convertible hinge",
+      "5MP webcam with privacy shutter",
+      "Good value for 16GB RAM"
+    ],
+    "cons": [
+      "A bit bulky to hold as a pure tablet for hours"
+    ]
+  },
+  {
+    "id": "laptop-019",
+    "name": "MSI Modern 14\" Ultrabook",
+    "brand": "MSI",
+    "category": "laptop",
+    "price": 459.0,
+    "currency": "USD",
+    "in_stock": true,
+    "shipping_fee": 0.0,
+    "specs": {
+      "cpu": "Intel Core i3-1215U",
+      "ram_gb": 8,
+      "storage_gb": 512,
+      "battery_hours": 7.0,
+      "weight_kg": 1.4,
+      "screen_size_inch": 14.0
+    },
+    "description": "Budget-conscious laptop engineered for computer science students, web development, and daily coursework.",
+    "review_summary": "Surprising value for under $500. Handles VS Code, local servers, and 20 Chrome tabs without complaint.",
+    "pros": [
+      "Very affordable entry price",
+      "180-degree lay-flat hinge",
+      "Backlit keyboard included"
+    ],
+    "cons": [
+      "Battery life is average at ~7 hours"
+    ]
+  },
+  {
+    "id": "laptop-020",
+    "name": "ASUS ROG Zephyrus G14 Gaming Laptop",
+    "brand": "ASUS",
+    "category": "laptop",
+    "price": 1449.99,
+    "currency": "USD",
+    "in_stock": true,
+    "shipping_fee": 0.0,
+    "specs": {
+      "cpu": "AMD Ryzen 9 8945HS",
+      "ram_gb": 16,
+      "storage_gb": 1024,
+      "battery_hours": 8.5,
+      "weight_kg": 1.57,
+      "screen_size_inch": 14.0
+    },
+    "description": "OLED creator and gaming laptop with aluminum chassis, Slash Lighting, and RTX 4060 GPU.",
+    "review_summary": "The 3K OLED screen paired with 6 studio speakers makes this a portable media and development monster.",
+    "pros": [
+      "Incredible 3K OLED 120Hz display",
+      "Punchy speakers with deep sub-bass",
+      "Sleek all-aluminum redesign"
+    ],
+    "cons": [
+      "Fans get audible during sustained machine learning training"
+    ]
+  },
+  {
+    "id": "laptop-021",
+    "name": "Acer Swift Go 14\" OLED Laptop",
+    "brand": "Acer",
+    "category": "laptop",
+    "price": 699.99,
+    "currency": "USD",
+    "in_stock": true,
+    "shipping_fee": 0.0,
+    "specs": {
+      "cpu": "Intel Core Ultra 5 125H",
+      "ram_gb": 16,
+      "storage_gb": 512,
+      "battery_hours": 9.5,
+      "weight_kg": 1.32,
+      "screen_size_inch": 14.0
+    },
+    "description": "High-brightness 2.8K 90Hz OLED ultrabook with Intel AI Boost NPU and twin-fan cooling.",
+    "review_summary": "Top budget OLED laptop on the market. 16GB RAM and Core Ultra processor make local Python scripts fly.",
+    "pros": [
+      "2.8K 90Hz OLED at an accessible price",
+      "Dual Thunderbolt 4 ports",
+      "Fast twin AirFlow cooling"
+    ],
+    "cons": [
+      "Speakers are bottom-firing and lack deep bass"
+    ]
+  },
+  {
+    "id": "laptop-022",
+    "name": "Alienware m16 R2 Gaming Laptop",
+    "brand": "Dell",
+    "category": "laptop",
+    "price": 1599.0,
+    "currency": "USD",
+    "in_stock": true,
+    "shipping_fee": 0.0,
+    "specs": {
+      "cpu": "Intel Core Ultra 7 155H",
+      "ram_gb": 16,
+      "storage_gb": 1024,
+      "battery_hours": 5.5,
+      "weight_kg": 2.61,
+      "screen_size_inch": 16.0
+    },
+    "description": "High-performance rig featuring dedicated Stealth Mode, 240Hz QHD+ screen, and RTX 4070 graphic power.",
+    "review_summary": "Massive thermal headroom for heavy 3D rendering and compilation. Stealth Mode button quiets fans instantly.",
+    "pros": [
+      "One-touch Stealth Mode fan quiet profile",
+      "Blazing fast 240Hz display",
+      "Dual upgradable M.2 SSD slots"
+    ],
+    "cons": [
+      "Heavy at 2.61kg",
+      "Shorter battery life under load"
+    ]
+  },
+  {
+    "id": "monitor-009",
+    "name": "Alienware 34\" QD-OLED Curved Monitor",
+    "brand": "Dell",
+    "category": "monitor",
+    "price": 799.99,
+    "currency": "USD",
+    "in_stock": true,
+    "shipping_fee": 0.0,
+    "specs": {
+      "screen_size_inch": 34.0,
+      "resolution": "3440 x 1440 WQHD",
+      "refresh_rate_hz": 165,
+      "panel_type": "QD-OLED",
+      "weight_kg": 7.2
+    },
+    "description": "Curved quantum dot OLED display with true 0.1ms pixel response and pure inky black contrast levels.",
+    "review_summary": "Infinite contrast makes dark mode coding and sci-fi games look miraculous. No backlight bleed whatsoever.",
+    "pros": [
+      "True 0.1ms pixel response time",
+      "Infinite contrast ratio",
+      "3-Year OLED burn-in warranty included"
+    ],
+    "cons": [
+      "Subpixel layout can cause subtle color fringing on very fine text"
+    ]
+  },
+  {
+    "id": "monitor-010",
+    "name": "BenQ 27\" 4K Designer Monitor",
+    "brand": "BenQ",
+    "category": "monitor",
+    "price": 499.0,
+    "currency": "USD",
+    "in_stock": true,
+    "shipping_fee": 0.0,
+    "specs": {
+      "screen_size_inch": 27.0,
+      "resolution": "3840 x 2160 4K UHD",
+      "refresh_rate_hz": 60,
+      "panel_type": "IPS",
+      "weight_kg": 6.5
+    },
+    "description": "Factory-calibrated 4K designer monitor featuring 100% sRGB, KVM switch, and 65W USB-C single cable hookup.",
+    "review_summary": "Colors out of the box are completely calibrated. The Hotkey Puck controller makes switching inputs instant.",
+    "pros": [
+      "Factory calibrated Delta E <= 3",
+      "External Hotkey Puck remote",
+      "65W USB-C charging"
+    ],
+    "cons": [
+      "60Hz refresh rate is tailored for design, not fast esports"
+    ]
+  },
+  {
+    "id": "monitor-011",
+    "name": "Gigabyte 27\" QHD 170Hz Gaming Monitor",
+    "brand": "Gigabyte",
+    "category": "monitor",
+    "price": 279.99,
+    "currency": "USD",
+    "in_stock": true,
+    "shipping_fee": 0.0,
+    "specs": {
+      "screen_size_inch": 27.0,
+      "resolution": "2560 x 1440 QHD",
+      "refresh_rate_hz": 170,
+      "panel_type": "SuperSpeed IPS",
+      "weight_kg": 5.2
+    },
+    "description": "1440p high-refresh monitor with integrated hardware KVM switch to share one keyboard and mouse across two PCs.",
+    "review_summary": "The built-in KVM button on the back is a life-saver for seamlessly toggling between work laptop and gaming desktop.",
+    "pros": [
+      "Built-in hardware KVM button",
+      "Smooth 170Hz refresh rate",
+      "High color volume 92% DCI-P3"
+    ],
+    "cons": [
+      "BGR subpixel arrangement requires Windows ClearType tune"
+    ]
+  },
+  {
+    "id": "monitor-012",
+    "name": "LG DualUp 28\" 16:18 Ergo Monitor",
+    "brand": "LG",
+    "category": "monitor",
+    "price": 599.99,
+    "currency": "USD",
+    "in_stock": true,
+    "shipping_fee": 0.0,
+    "specs": {
+      "screen_size_inch": 27.6,
+      "resolution": "2560 x 2880 SDQHD",
+      "refresh_rate_hz": 60,
+      "panel_type": "Nano IPS",
+      "weight_kg": 9.0
+    },
+    "description": "Revolutionary 16:18 vertical aspect ratio monitor stacking two 21.5-inch displays vertically on an included heavy-duty Ergo arm.",
+    "review_summary": "The ultimate programmer display. You can view 150 lines of code without scrolling. Relieves chronic neck strain.",
+    "pros": [
+      "16:18 vertical double-screen form factor",
+      "Included 360-degree Ergo desk arm",
+      "90W USB-C power delivery"
+    ],
+    "cons": [
+      "Unusual aspect ratio is not meant for full-screen widescreen video"
+    ]
+  },
+  {
+    "id": "monitor-013",
+    "name": "Samsung Odyssey G7 32\" Curved Gaming Monitor",
+    "brand": "Samsung",
+    "category": "monitor",
+    "price": 499.99,
+    "currency": "USD",
+    "in_stock": true,
+    "shipping_fee": 0.0,
+    "specs": {
+      "screen_size_inch": 32.0,
+      "resolution": "2560 x 1440 QHD",
+      "refresh_rate_hz": 240,
+      "panel_type": "QLED VA",
+      "weight_kg": 8.2
+    },
+    "description": "Deep 1000R curved gaming monitor engineered to match the natural peripheral vision curve of human eyes.",
+    "review_summary": "The 240Hz speed and deep 2500:1 contrast ratio make night scenes pop with rich depth. Incredible immersion.",
+    "pros": [
+      "Deep 1000R curvature fills peripheral vision",
+      "240Hz refresh with 1ms response",
+      "Quantum Dot color vibrancy"
+    ],
+    "cons": [
+      "Curvature takes 2-3 days to get used to for spreadsheets"
+    ]
+  },
+  {
+    "id": "monitor-014",
+    "name": "Philips 49\" SuperWide Curved Monitor",
+    "brand": "Philips",
+    "category": "monitor",
+    "price": 849.0,
+    "currency": "USD",
+    "in_stock": true,
+    "shipping_fee": 0.0,
+    "specs": {
+      "screen_size_inch": 49.0,
+      "resolution": "5120 x 1440 Dual QHD",
+      "refresh_rate_hz": 70,
+      "panel_type": "VA Curved",
+      "weight_kg": 15.3
+    },
+    "description": "Massive 49-inch 32:9 SuperWide curved monitor equivalent to two 27-inch QHD screens seamlessly merged without center bezels.",
+    "review_summary": "Replaced three messy monitors with this single panoramic screen. Built-in pop-up Windows Hello webcam is a genius touch.",
+    "pros": [
+      "Massive screen real estate replaces dual monitors",
+      "Pop-up Windows Hello facial login camera",
+      "Built-in KVM and RJ45 ethernet dock"
+    ],
+    "cons": [
+      "Requires a deep desk with at least 80cm depth"
+    ]
+  },
+  {
+    "id": "monitor-015",
+    "name": "ViewSonic 27\" ColorPro 2K Monitor",
+    "brand": "ViewSonic",
+    "category": "monitor",
+    "price": 359.0,
+    "currency": "USD",
+    "in_stock": true,
+    "shipping_fee": 0.0,
+    "specs": {
+      "screen_size_inch": 27.0,
+      "resolution": "2560 x 1440 QHD",
+      "refresh_rate_hz": 60,
+      "panel_type": "SuperClear IPS",
+      "weight_kg": 6.8
+    },
+    "description": "Pantone-validated professional color monitor with daisy-chain DisplayPort output and built-in ethernet port.",
+    "review_summary": "Super uniform backlighting across the entire panel. Daisy chain support lets me run two screens off one laptop port.",
+    "pros": [
+      "Pantone validated color accuracy",
+      "Daisy-chain DisplayPort MST out",
+      "Integrated RJ45 Gigabit Ethernet"
+    ],
+    "cons": [
+      "Standard 60Hz refresh rate"
+    ]
+  },
+  {
+    "id": "monitor-016",
+    "name": "Dell 27\" 4K USB-C Hub Monitor",
+    "brand": "Dell",
+    "category": "monitor",
+    "price": 329.99,
+    "currency": "USD",
+    "in_stock": true,
+    "shipping_fee": 0.0,
+    "specs": {
+      "screen_size_inch": 27.0,
+      "resolution": "3840 x 2160 4K UHD",
+      "refresh_rate_hz": 60,
+      "panel_type": "IPS",
+      "weight_kg": 5.1
+    },
+    "description": "Modern textured back 4K monitor with single cable 65W USB-C connectivity and integrated dual 3W speakers.",
+    "review_summary": "Crisp 4K text clarity makes reading code and docs effortless. Clean white rear design fits modern Scandinavian desks.",
+    "pros": [
+      "Razor sharp 4K text rendering",
+      "Single cable 65W charging and video",
+      "Sturdy height and pivot stand"
+    ],
+    "cons": [
+      "No HDR brightness capability"
+    ]
+  },
+  {
+    "id": "monitor-017",
+    "name": "KTC 27\" 165Hz Fast-IPS Gaming Monitor",
+    "brand": "KTC",
+    "category": "monitor",
+    "price": 199.99,
+    "currency": "USD",
+    "in_stock": true,
+    "shipping_fee": 0.0,
+    "specs": {
+      "screen_size_inch": 27.0,
+      "resolution": "2560 x 1440 QHD",
+      "refresh_rate_hz": 165,
+      "panel_type": "Fast IPS",
+      "weight_kg": 4.8
+    },
+    "description": "Cost-effective 1440p gaming and office monitor offering 165Hz refresh rate and FreeSync Premium compatibility.",
+    "review_summary": "Best value 1440p monitor hands down. Zero ghosting on fast moving windows and text scrolling.",
+    "pros": [
+      "Unbeatable price for 1440p 165Hz Fast IPS",
+      "Fully adjustable stand with vertical rotation",
+      "Low blue light mode"
+    ],
+    "cons": [
+      "Built-in speakers are very basic"
+    ]
+  },
+  {
+    "id": "monitor-018",
+    "name": "Samsung M8 32\" 4K Smart Monitor",
+    "brand": "Samsung",
+    "category": "monitor",
+    "price": 449.99,
+    "currency": "USD",
+    "in_stock": true,
+    "shipping_fee": 0.0,
+    "specs": {
+      "screen_size_inch": 32.0,
+      "resolution": "3840 x 2160 4K UHD",
+      "refresh_rate_hz": 60,
+      "panel_type": "VA 4K",
+      "weight_kg": 6.7
+    },
+    "description": "Stand-alone smart monitor running Tizen OS for Netflix/YouTube without a PC, plus magnetic 4K SlimFit camera.",
+    "review_summary": "Acts as both a full 4K PC monitor during work and a smart TV at night. Magnetic webcam attaches in one second.",
+    "pros": [
+      "Works standalone as a smart TV with remote",
+      "Included magnetic SlimFit 4K webcam",
+      "Supports AirPlay 2 and Samsung DeX"
+    ],
+    "cons": [
+      "Viewing angles are narrower than IPS panels"
+    ]
+  },
+  {
+    "id": "audio-009",
+    "name": "Sony WH-1000XM5 ANC Headphones",
+    "brand": "Sony",
+    "category": "audio",
+    "price": 348.0,
+    "currency": "USD",
+    "in_stock": true,
+    "shipping_fee": 0.0,
+    "specs": {
+      "battery_hours": 30,
+      "connectivity": "Bluetooth 5.2 / LDAC",
+      "weight_g": 250,
+      "anc_type": "Auto NC Optimizer (8 mics)"
+    },
+    "description": "Flagship wireless active noise cancelling headphones with dual processors and carbon fiber 30mm drivers.",
+    "review_summary": "Cancels airplane and office cafe chatter almost completely. The microphone background noise suppression is magic.",
+    "pros": [
+      "Top-tier active noise cancellation",
+      "3-minute quick charge yields 3 hours",
+      "Lightweight synthetic soft leather headband"
+    ],
+    "cons": [
+      "Earcups fold flat but do not collapse inward like XM4"
+    ]
+  },
+  {
+    "id": "audio-010",
+    "name": "Bowers & Wilkins Px7 S2e Headphones",
+    "brand": "Bowers & Wilkins",
+    "category": "audio",
+    "price": 399.0,
+    "currency": "USD",
+    "in_stock": true,
+    "shipping_fee": 0.0,
+    "specs": {
+      "battery_hours": 30,
+      "connectivity": "Bluetooth 5.2 / 24-bit DSP",
+      "weight_g": 307,
+      "anc_type": "Hybrid Active Noise Cancelling"
+    },
+    "description": "Luxurious British acoustic engineered headphones with custom angled 40mm biocellulose drivers and memory foam cups.",
+    "review_summary": "Soundstage separation is breathtaking. Instruments have realistic space and acoustic air unlike typical consumer headphones.",
+    "pros": [
+      "Exquisite aluminum and fabric build",
+      "High-res 24-bit DSP streaming",
+      "Warm, detailed acoustic profile"
+    ],
+    "cons": [
+      "Active noise cancelling is good but trailing Sony/Bose slightly"
+    ]
+  },
+  {
+    "id": "audio-011",
+    "name": "Beyerdynamic DT 770 Pro X Studio Headphones",
+    "brand": "Beyerdynamic",
+    "category": "audio",
+    "price": 199.0,
+    "currency": "USD",
+    "in_stock": true,
+    "shipping_fee": 0.0,
+    "specs": {
+      "connectivity": "Detachable Mini-XLR to 3.5mm",
+      "impedance_ohm": 48,
+      "weight_g": 305,
+      "driver": "STELLAR.45"
+    },
+    "description": "Limited edition reference closed-back studio headphones featuring low-impedance STELLAR.45 drivers and plush velour earpads.",
+    "review_summary": "Plush velour pads are heavenly for 8+ hour coding marathons. Detachable cable fixes the one flaw of the classic DT 770.",
+    "pros": [
+      "Legendary velour cushion comfort",
+      "STELLAR.45 driver easily driven by laptops/phones",
+      "Handcrafted in Germany with replaceable parts"
+    ],
+    "cons": [
+      "Passive noise isolation only (no active ANC electronics)"
+    ]
+  },
+  {
+    "id": "audio-012",
+    "name": "Audio-Technica ATH-M50xBT2 Wireless Headphones",
+    "brand": "Audio-Technica",
+    "category": "audio",
+    "price": 199.0,
+    "currency": "USD",
+    "in_stock": true,
+    "shipping_fee": 0.0,
+    "specs": {
+      "battery_hours": 50,
+      "connectivity": "Bluetooth 5.0 / LDAC / 3.5mm",
+      "weight_g": 307,
+      "driver_mm": 45
+    },
+    "description": "Wireless iteration of the world's most famous studio monitor headphones with 50-hour battery and dual-mic beamforming.",
+    "review_summary": "Exact same flat reference bass and punchy mids as the wired M50x. 50 hours of battery means I charge it once a month.",
+    "pros": [
+      "Accurate studio sound curve",
+      "Huge 50-hour battery endurance",
+      "Collapsible DJ folding design"
+    ],
+    "cons": [
+      "Headband clamp force is slightly firm out of the box"
+    ]
+  },
+  {
+    "id": "audio-013",
+    "name": "Shure AONIC 50 Gen 2 ANC Headphones",
+    "brand": "Shure",
+    "category": "audio",
+    "price": 349.0,
+    "currency": "USD",
+    "in_stock": true,
+    "shipping_fee": 0.0,
+    "specs": {
+      "battery_hours": 45,
+      "connectivity": "Bluetooth 5.2 / USB-C Lossless 32-bit",
+      "weight_g": 340,
+      "anc_type": "Hybrid Active Noise Cancelling"
+    },
+    "description": "Studio-grade wireless headphones with customizable hardware parametric EQ and lossless USB-C audio DAC mode.",
+    "review_summary": "Plugging directly via USB-C into a MacBook delivers true lossless 32-bit 384kHz audio. Built like a broadcast tank.",
+    "pros": [
+      "Lossless high-res USB-C wired DAC mode",
+      "Hardware parametric EQ saved onto headphone memory",
+      "Spatial audio modes for cinema and music"
+    ],
+    "cons": [
+      "Carry case is relatively large"
+    ]
+  },
+  {
+    "id": "audio-014",
+    "name": "Nothing Ear (2) Wireless Earbuds",
+    "brand": "Nothing",
+    "category": "audio",
+    "price": 149.0,
+    "currency": "USD",
+    "in_stock": true,
+    "shipping_fee": 0.0,
+    "specs": {
+      "battery_hours": 36,
+      "connectivity": "Bluetooth 5.3 / LHDC 5.0",
+      "weight_g": 4.5,
+      "water_resistance": "IP54 (buds) / IP55 (case)"
+    },
+    "description": "Futuristic transparent earbuds with personalized sound profiles, smart ANC, and dual-connection multipoint.",
+    "review_summary": "Very comfortable featherweight fit at 4.5g per bud. The personal sound hearing test makes vocals pop crystal clear.",
+    "pros": [
+      "Unique iconic transparent shell design",
+      "Custom 11.6mm graphene driver",
+      "Multipoint dual device pairing"
+    ],
+    "cons": [
+      "Earbud standalone battery is ~4 hours with ANC on"
+    ]
+  },
+  {
+    "id": "audio-015",
+    "name": "Marshall Major IV Wireless Headphones",
+    "brand": "Marshall",
+    "category": "audio",
+    "price": 129.99,
+    "currency": "USD",
+    "in_stock": true,
+    "shipping_fee": 0.0,
+    "specs": {
+      "battery_hours": 80,
+      "connectivity": "Bluetooth 5.0 / Qi Wireless",
+      "weight_g": 165,
+      "charging": "USB-C + Qi Wireless"
+    },
+    "description": "Retro on-ear headphones delivering signature Marshall rock sound and an astounding 80+ hours of wireless playback.",
+    "review_summary": "80 hours of battery is not an exaggeration. The brass control knob on the earcup is the best tactile interface ever.",
+    "pros": [
+      "Insane 80+ hours continuous playback",
+      "Qi wireless charging through right earcup",
+      "Multi-directional brass control knob"
+    ],
+    "cons": [
+      "On-ear design rests directly on ears, not over-ear"
+    ]
+  },
+  {
+    "id": "audio-016",
+    "name": "Beats Studio Pro ANC Headphones",
+    "brand": "Beats",
+    "category": "audio",
+    "price": 199.99,
+    "currency": "USD",
+    "in_stock": true,
+    "shipping_fee": 0.0,
+    "specs": {
+      "battery_hours": 40,
+      "connectivity": "Bluetooth / USB-C Lossless / 3.5mm",
+      "weight_g": 260,
+      "spatial_audio": "Head Tracking Spatial Audio"
+    },
+    "description": "Fully re-engineered acoustic platform with dynamic head tracking Spatial Audio and one-touch pairing on both iOS and Android.",
+    "review_summary": "Way more balanced and analytical than older bass-heavy Beats. USB-C lossless listening while charging is great at the desk.",
+    "pros": [
+      "Universal one-touch pairing for Apple and Android",
+      "Built-in 24-bit 48kHz USB-C DAC",
+      "Dynamic head tracking Spatial Audio"
+    ],
+    "cons": [
+      "No automatic play/pause sensor when taking off"
+    ]
+  },
+  {
+    "id": "audio-017",
+    "name": "Anker Soundcore Space Q45 ANC Headphones",
+    "brand": "Anker",
+    "category": "audio",
+    "price": 149.99,
+    "currency": "USD",
+    "in_stock": true,
+    "shipping_fee": 0.0,
+    "specs": {
+      "battery_hours": 50,
+      "connectivity": "Bluetooth 5.3 / LDAC / 3.5mm",
+      "weight_g": 290,
+      "anc_type": "Adaptive Active Noise Cancelling"
+    },
+    "description": "High-value adaptive ANC headphones reducing unwanted background noise by up to 98% with LDAC hi-res audio streaming.",
+    "review_summary": "Punching way above its $150 price tag. App EQ with 8-band control lets you tune the sound profile to perfection.",
+    "pros": [
+      "50-hour battery life with ANC enabled",
+      "Adaptive ANC automatically adjusts to surroundings",
+      "Comfortable memory foam ear cushions"
+    ],
+    "cons": [
+      "Microphone clarity in windy environments is average"
+    ]
+  },
+  {
+    "id": "audio-018",
+    "name": "Sennheiser Momentum 4 Wireless Headphones",
+    "brand": "Sennheiser",
+    "category": "audio",
+    "price": 279.95,
+    "currency": "USD",
+    "in_stock": true,
+    "shipping_fee": 0.0,
+    "specs": {
+      "battery_hours": 60,
+      "connectivity": "Bluetooth 5.2 / aptX Adaptive",
+      "weight_g": 293,
+      "driver_mm": 42
+    },
+    "description": "Benchmark 60-hour wireless battery life with audiophile-inspired 42mm transducer system and adaptive noise cancelling.",
+    "review_summary": "60 hours on a single charge completely removes battery anxiety. The soundstage is rich, warm, and natural.",
+    "pros": [
+      "Class-leading 60-hour battery life",
+      "Audiophile-grade 42mm sound transducers",
+      "Smart pause and auto on/off sensors"
+    ],
+    "cons": [
+      "Styling is more understated compared to Momentum 3"
+    ]
+  },
+  {
+    "id": "keyboard-009",
+    "name": "Keychron Q1 Pro Aluminum Mechanical Keyboard",
+    "brand": "Keychron",
+    "category": "keyboard",
+    "price": 199.0,
+    "currency": "USD",
+    "in_stock": true,
+    "shipping_fee": 0.0,
+    "specs": {
+      "switch_type": "Keychron K Pro Banana Tactile",
+      "layout": "75% Exploded",
+      "connectivity": "Bluetooth 5.1 / Type-C 1000Hz",
+      "backlight": "South-Facing RGB"
+    },
+    "description": "Heavyweight CNC 6063 aluminum custom wireless mechanical keyboard with double-gasket acoustic mounting and QMK/VIA support.",
+    "review_summary": "Feels like an absolute premium custom board. The tactile Banana switches have a snappy early bump that feels amazing.",
+    "pros": [
+      "Solid CNC machined aluminum chassis (1.7kg)",
+      "Double gasket mount offers soft flexible typing",
+      "QMK/VIA open-source key remapping"
+    ],
+    "cons": [
+      "Very heavy, strictly meant as a permanent desk centerpiece"
+    ]
+  },
+  {
+    "id": "keyboard-010",
+    "name": "HHKB Pro Hybrid Type-S Keyboard",
+    "brand": "PFU",
+    "category": "keyboard",
+    "price": 319.0,
+    "currency": "USD",
+    "in_stock": true,
+    "shipping_fee": 0.0,
+    "specs": {
+      "switch_type": "Topre Silent Capacitive (45g)",
+      "layout": "60% Minimalist HHKB",
+      "connectivity": "Bluetooth 4.2 / USB-C",
+      "backlight": "None"
+    },
+    "description": "Legendary Topre electrostatic capacitive silent switches offering plush tactile cushion actuation favored by Linux/Unix kernel developers.",
+    "review_summary": "The 'thock' sound of Topre Type-S switches is intoxicating. Control key replaces Caps Lock right next to A for speed.",
+    "pros": [
+      "Exclusive silent Topre electrostatic switches",
+      "Control key position optimized for coding",
+      "Pairs with up to 4 devices via Bluetooth"
+    ],
+    "cons": [
+      "Unique HHKB key layout requires a 1-week learning curve"
+    ]
+  },
+  {
+    "id": "keyboard-011",
+    "name": "Ducky One 3 TKL Mechanical Keyboard",
+    "brand": "Ducky",
+    "category": "keyboard",
+    "price": 119.0,
+    "currency": "USD",
+    "in_stock": true,
+    "shipping_fee": 0.0,
+    "specs": {
+      "switch_type": "Cherry MX Silent Red Linear",
+      "layout": "Tenkeyless (87-Key)",
+      "connectivity": "Detachable USB-C",
+      "backlight": "Per-Key RGB"
+    },
+    "description": "QUACK Mechanics acoustic multi-layer sound dampening with factory-lubed stabilizers and silent Cherry switches.",
+    "review_summary": "Near silence when typing late at night. The multi-layer silicone acoustic padding completely eliminates hollow echoes.",
+    "pros": [
+      "True whisper-quiet typing with Silent Red switches",
+      "Hot-swappable Kailh yellow sockets",
+      "Thick double-shot PBT keycaps"
+    ],
+    "cons": [
+      "Wired only (no Bluetooth or 2.4GHz)"
+    ]
+  },
+  {
+    "id": "keyboard-012",
+    "name": "Epomaker TH80 Pro Gasket Mechanical Keyboard",
+    "brand": "Epomaker",
+    "category": "keyboard",
+    "price": 89.99,
+    "currency": "USD",
+    "in_stock": true,
+    "shipping_fee": 0.0,
+    "specs": {
+      "switch_type": "Gateron Pro Yellow Linear",
+      "layout": "75% with Rotary Knob",
+      "connectivity": "2.4GHz / Bluetooth 5.0 / USB-C",
+      "backlight": "South-Facing RGB"
+    },
+    "description": "Gasket-mounted mechanical keyboard featuring pre-lubed Gateron switches, programmable metal media knob, and 4000mAh battery.",
+    "review_summary": "Unbeatable value under $90. The Gateron Pro Yellows are silky smooth and the volume knob has satisfying tactile clicks.",
+    "pros": [
+      "Rotary metal volume/mute knob",
+      "Tri-mode wireless connectivity",
+      "Factory pre-lubed switches and stabilizers"
+    ],
+    "cons": [
+      "Software companion app is somewhat clunky"
+    ]
+  },
+  {
+    "id": "keyboard-013",
+    "name": "Corsair K70 RGB Pro Mechanical Keyboard",
+    "brand": "Corsair",
+    "category": "keyboard",
+    "price": 129.99,
+    "currency": "USD",
+    "in_stock": true,
+    "shipping_fee": 0.0,
+    "specs": {
+      "switch_type": "Cherry MX Red Linear",
+      "layout": "Full-Size (104-Key)",
+      "connectivity": "USB 8000Hz Hyper-Polling",
+      "backlight": "Dynamic Per-Key RGB"
+    },
+    "description": "Iconic aircraft-grade brushed aluminum frame keyboard with 8,000Hz AXON hyper-processing and magnetic soft-touch palm rest.",
+    "review_summary": "Rock-solid brushed aluminum plate that never flexes. Dedicated aluminum roller wheel for volume is super convenient.",
+    "pros": [
+      "Durable aircraft-grade aluminum top plate",
+      "Dedicated media keys with volume roller",
+      "Detachable braided USB-C cable"
+    ],
+    "cons": [
+      "Large desk footprint due to full numpad and wrist rest"
+    ]
+  },
+  {
+    "id": "keyboard-014",
+    "name": "SteelSeries Apex Pro TKL Mechanical Keyboard",
+    "brand": "SteelSeries",
+    "category": "keyboard",
+    "price": 189.99,
+    "currency": "USD",
+    "in_stock": true,
+    "shipping_fee": 0.0,
+    "specs": {
+      "switch_type": "OmniPoint 2.0 Adjustable Magnetic",
+      "layout": "Tenkeyless",
+      "connectivity": "USB-C Detachable",
+      "backlight": "Per-Key RGB + OLED Smart Display"
+    },
+    "description": "World's fastest keyboard with magnetic Hall Effect sensors offering customizable key actuation from 0.2mm to 3.8mm.",
+    "review_summary": "Adjusting actuation depth is incredible: hair-trigger 0.2mm for gaming WASD, and deep 2.5mm for typing code to prevent typos.",
+    "pros": [
+      "Adjustable actuation depth from 0.2mm to 3.8mm",
+      "Integrated OLED smart display for notifications",
+      "Rapid Trigger instantaneous key reset"
+    ],
+    "cons": [
+      "Premium pricing for Hall Effect technology"
+    ]
+  },
+  {
+    "id": "keyboard-015",
+    "name": "NuPhy Air96 V2 Low-Profile Mechanical Keyboard",
+    "brand": "NuPhy",
+    "category": "keyboard",
+    "price": 139.95,
+    "currency": "USD",
+    "in_stock": true,
+    "shipping_fee": 0.0,
+    "specs": {
+      "switch_type": "Gateron Low-Profile Cowberry Linear",
+      "layout": "96% Compact with NumPad",
+      "connectivity": "2.4GHz 1000Hz / BT 5.0 / Wired",
+      "backlight": "RGB with Sidelights"
+    },
+    "description": "Ultra-thin 96% wireless mechanical keyboard designed for Mac and Windows with low-profile ergonomic keycaps and 1000Hz polling.",
+    "review_summary": "Fits in a laptop backpack easily while keeping a dedicated number pad. Zero wrist strain thanks to the ultra-thin profile.",
+    "pros": [
+      "Low-profile design eliminates need for wrist rests",
+      "Compact 96% includes full number pad",
+      "QMK/VIA programmability"
+    ],
+    "cons": [
+      "Keycap replacement options are limited to low-profile stems"
+    ]
+  },
+  {
+    "id": "keyboard-016",
+    "name": "Akko 3068B Plus Wireless Mechanical Keyboard",
+    "brand": "Akko",
+    "category": "keyboard",
+    "price": 79.99,
+    "currency": "USD",
+    "in_stock": true,
+    "shipping_fee": 0.0,
+    "specs": {
+      "switch_type": "Akko CS Jelly Pink Linear",
+      "layout": "65% Compact",
+      "connectivity": "Tri-Mode 2.4G / BT / Wired",
+      "backlight": "RGB Backlit"
+    },
+    "description": "Vintage 90s aesthetic keyboard with smooth pre-lubed switches, PBT dye-sub keycaps, and multi-host device pairing.",
+    "review_summary": "Retro colorway looks nostalgic and gorgeous. The Jelly Pink switches are buttery smooth right out of the box.",
+    "pros": [
+      "Classic retro 9009 color aesthetic",
+      "Hot-swappable 5-pin switch sockets",
+      "Compact 65% retains arrow keys"
+    ],
+    "cons": [
+      "No dedicated function key row (uses Fn combinations)"
+    ]
+  },
+  {
+    "id": "keyboard-017",
+    "name": "Das Keyboard 4 Professional Mechanical Keyboard",
+    "brand": "Das Keyboard",
+    "category": "keyboard",
+    "price": 169.0,
+    "currency": "USD",
+    "in_stock": true,
+    "shipping_fee": 0.0,
+    "specs": {
+      "switch_type": "Cherry MX Brown Tactile",
+      "layout": "Full-Size with NumPad",
+      "connectivity": "SuperSpeed USB 3.0 Hub",
+      "backlight": "None"
+    },
+    "description": "German-engineered workhorse mechanical keyboard with gold-plated switches, dedicated media controls, and oversized volume dial.",
+    "review_summary": "The mechanical keyboard by which all office keyboards are measured. Built like an iron tank with zero rattle.",
+    "pros": [
+      "Built-in 2-port SuperSpeed USB 3.0 hub",
+      "Silky smooth oversized metal volume knob",
+      "Magnetic footbar doubles as a 16-inch ruler"
+    ],
+    "cons": [
+      "No RGB or backlighting for dark room typing"
+    ]
+  },
+  {
+    "id": "keyboard-018",
+    "name": "Logitech MX Mechanical Mini Wireless Keyboard",
+    "brand": "Logitech",
+    "category": "keyboard",
+    "price": 149.99,
+    "currency": "USD",
+    "in_stock": true,
+    "shipping_fee": 0.0,
+    "specs": {
+      "switch_type": "Tactile Quiet Low-Profile",
+      "layout": "75% Minimalist",
+      "connectivity": "Logi Bolt / Bluetooth Low Energy",
+      "backlight": "Smart Proximity White Backlight"
+    },
+    "description": "Low-profile tactile quiet switches with smart hand-proximity sensor backlighting and Flow cross-computer typing.",
+    "review_summary": "Extremely quiet mechanical actuation suitable for quiet corporate offices. The proximity backlighting turns on as hands approach.",
+    "pros": [
+      "Smart hand-proximity backlight sensors",
+      "Logitech Flow allows typing across 3 computers",
+      "Up to 10 months battery with backlight off"
+    ],
+    "cons": [
+      "ABS keycaps will develop shine over time"
+    ]
+  },
+  {
+    "id": "mouse-007",
+    "name": "Logitech G Pro X Superlight 2 Gaming Mouse",
+    "brand": "Logitech",
+    "category": "mouse",
+    "price": 159.99,
+    "currency": "USD",
+    "in_stock": true,
+    "shipping_fee": 0.0,
+    "specs": {
+      "sensor_dpi": 32000,
+      "connectivity": "LIGHTSPEED Wireless / USB-C",
+      "weight_g": 60,
+      "profile": "Ambidextrous Ultralight"
+    },
+    "description": "Featherweight 60-gram esports mouse with LIGHTFORCE hybrid optical-mechanical switches and HERO 2 sensor.",
+    "review_summary": "Feels practically weightless in the hand. The hybrid optical switches give crisp tactile clicks with zero debounce latency.",
+    "pros": [
+      "Ultra-lightweight 60g without holes",
+      "HERO 2 sensor tracks up to 32,000 DPI and 500 IPS",
+      "95 hours continuous battery life"
+    ],
+    "cons": [
+      "No dedicated Bluetooth mode (uses LIGHTSPEED USB dongle)"
+    ]
+  },
+  {
+    "id": "mouse-008",
+    "name": "Pulsar X2V2 Wireless Lightweight Gaming Mouse",
+    "brand": "Pulsar",
+    "category": "mouse",
+    "price": 99.95,
+    "currency": "USD",
+    "in_stock": true,
+    "shipping_fee": 0.0,
+    "specs": {
+      "sensor_dpi": 26000,
+      "connectivity": "2.4GHz Wireless / USB-C",
+      "weight_g": 53,
+      "profile": "Symmetrical Claw/Fingertip"
+    },
+    "description": "53-gram symmetrical wireless mouse featuring optical switches to eliminate accidental double clicks completely.",
+    "review_summary": "53 grams without honeycomb cutouts is an engineering triumph. Optical switches feel snappy and never double-click.",
+    "pros": [
+      "Extremely lightweight at only 53g",
+      "Dustproof Pulsar Blue encoder wheel",
+      "Zero debounce delay optical switches"
+    ],
+    "cons": [
+      "Battery size is modest to maintain ultra-low weight (~70 hours)"
+    ]
+  },
+  {
+    "id": "mouse-009",
+    "name": "Kensington Expert Wireless Ergonomic Trackball",
+    "brand": "Kensington",
+    "category": "mouse",
+    "price": 89.99,
+    "currency": "USD",
+    "in_stock": true,
+    "shipping_fee": 0.0,
+    "specs": {
+      "sensor_dpi": 1600,
+      "connectivity": "Dual Bluetooth 4.0 / 2.4GHz Dongle",
+      "profile": "Stationary Large 55mm Ball",
+      "weight_g": 380
+    },
+    "description": "Large 55mm trackball with patented scroll ring for complete wrist relief during long software engineering and CAD sessions.",
+    "review_summary": "Saved my wrist from severe repetitive strain injury. The scroll ring around the red ball is the smoothest document scroller.",
+    "pros": [
+      "Zero arm or wrist movement needed",
+      "Patented smooth mechanical scroll ring",
+      "Large detachable ergonomic wrist cushion"
+    ],
+    "cons": [
+      "Takes 3-4 days to build muscle memory if new to trackballs"
+    ]
+  },
+  {
+    "id": "mouse-010",
+    "name": "Anker Ergonomic Vertical Optical Mouse",
+    "brand": "Anker",
+    "category": "mouse",
+    "price": 24.99,
+    "currency": "USD",
+    "in_stock": true,
+    "shipping_fee": 0.0,
+    "specs": {
+      "sensor_dpi": 1600,
+      "connectivity": "2.4GHz USB Dongle",
+      "profile": "Vertical Handshake Grip (57-deg)",
+      "weight_g": 95
+    },
+    "description": "Budget-friendly vertical mouse promoting a neutral 'handshake' wrist angle to alleviate forearm strain and carpal tunnel tension.",
+    "review_summary": "Best $25 you will ever spend on your desk ergonomics. Forearm muscle tightness disappeared after 2 days of use.",
+    "pros": [
+      "Exceptional value for an ergonomic vertical mouse",
+      "Natural handshake grip angle",
+      "Dedicated DPI switch button (800/1200/1600)"
+    ],
+    "cons": [
+      "Requires 2 AAA batteries (not rechargeable via USB)"
+    ]
+  },
+  {
+    "id": "mouse-011",
+    "name": "ZOWIE EC2-CW Wireless Esports Gaming Mouse",
+    "brand": "BenQ Zowie",
+    "category": "mouse",
+    "price": 149.99,
+    "currency": "USD",
+    "in_stock": true,
+    "shipping_fee": 0.0,
+    "specs": {
+      "sensor_dpi": 3200,
+      "connectivity": "Enhanced Wireless Stand Receiver",
+      "weight_g": 77,
+      "profile": "Asymmetrical Ergonomic"
+    },
+    "description": "Gold standard ergonomic shape with enhanced standalone receiver base to guarantee zero wireless signal interference.",
+    "review_summary": "The EC2 shape is legendary for a reason\u2014it feels like an extension of your palm. Enhanced receiver dock looks super clean.",
+    "pros": [
+      "Legendary right-handed ergonomic palm shape",
+      "Enhanced wireless receiver dock doubles as charging station",
+      "Plug and play with zero software driver needed"
+    ],
+    "cons": [
+      "Uses older 3370 sensor (though tuned flawlessly)"
+    ]
+  },
+  {
+    "id": "mouse-012",
+    "name": "SteelSeries Aerox 3 Wireless Gaming Mouse",
+    "brand": "SteelSeries",
+    "category": "mouse",
+    "price": 79.99,
+    "currency": "USD",
+    "in_stock": true,
+    "shipping_fee": 0.0,
+    "specs": {
+      "sensor_dpi": 8500,
+      "connectivity": "Quantum 2.0 Wireless / Bluetooth / USB-C",
+      "weight_g": 68,
+      "water_resistance": "IP54 AquaBarrier"
+    },
+    "description": "Ultra-lightweight 68g honeycomb mouse shielded with AquaBarrier IP54 water, dust, and grime resistance.",
+    "review_summary": "Love that it is IP54 water-resistant so spilled coffee or desk dust will never kill the internal sensor circuit.",
+    "pros": [
+      "IP54 water and dust resistant protection",
+      "Fast 15-minute USB-C charge gives 40 hours",
+      "Crisp Golden Micro switches rated for 80M clicks"
+    ],
+    "cons": [
+      "Honeycomb cutouts can collect pet hair inside"
+    ]
+  },
+  {
+    "id": "tech-009",
+    "name": "Elgato Stream Deck MK.2 Studio Controller",
+    "brand": "Elgato",
+    "category": "desk_tech",
+    "price": 149.99,
+    "currency": "USD",
+    "in_stock": true,
+    "shipping_fee": 0.0,
+    "specs": {
+      "keys": "15 Customizable LCD Keys",
+      "connectivity": "USB 2.0 Detachable Type-C",
+      "form_factor": "Desktop Controller"
+    },
+    "description": "15 tactile LCD keys to trigger dev macros, execute bash scripts, control smart lights, and mute mic on Zoom.",
+    "review_summary": "Essential developer productivity tool. Having single-tap physical buttons for git push, docker-compose, and mute saves so much time.",
+    "pros": [
+      "15 customizable dynamic color LCD icons",
+      "Huge plugin library for VS Code, OBS, and GitHub",
+      "Detachable 45-degree angled stand"
+    ],
+    "cons": [
+      "Requires background desktop software running"
+    ]
+  },
+  {
+    "id": "tech-010",
+    "name": "Rode VideoMic NTG Hybrid Shotgun Microphone",
+    "brand": "Rode",
+    "category": "desk_tech",
+    "price": 249.0,
+    "currency": "USD",
+    "in_stock": true,
+    "shipping_fee": 0.0,
+    "specs": {
+      "connectivity": "USB-C / 3.5mm Auto-Sensing",
+      "polar_pattern": "Supercardioid Broadcast",
+      "battery_hours": 30
+    },
+    "description": "Broadcast-grade directional shotgun microphone operating as both an on-camera mic and a direct plug-and-play USB-C desktop mic.",
+    "review_summary": "Supercardioid pattern rejects keyboard clatter and PC fan hum brilliantly. Plugs straight into Mac/PC with zero interface needed.",
+    "pros": [
+      "Direct USB-C digital output with 24-bit 48kHz audio",
+      "Infinitely variable gain control knob",
+      "Highly directional acoustic focus rejects room echo"
+    ],
+    "cons": [
+      "Needs a boom arm or desk stand to position close to mouth"
+    ]
+  },
+  {
+    "id": "tech-011",
+    "name": "Anker 778 Thunderbolt 4 Docking Station",
+    "brand": "Anker",
+    "category": "desk_tech",
+    "price": 279.99,
+    "currency": "USD",
+    "in_stock": true,
+    "shipping_fee": 0.0,
+    "specs": {
+      "ports": "12 Ports with 100W PD",
+      "connectivity": "Thunderbolt 4 (40Gbps)",
+      "form_factor": "Vertical Space-Saving Dock"
+    },
+    "description": "Thunderbolt 4 certified docking station driving up to quad 4K monitors with 100W laptop fast charging and 2.5Gbps ethernet.",
+    "review_summary": "Single cable setup charges my laptop, runs two 4K displays at 60Hz, connects ethernet, and powers desk accessories effortlessly.",
+    "pros": [
+      "True 40Gbps Thunderbolt 4 bandwidth",
+      "100W Power Delivery charges even 16-inch laptops",
+      "Fast 2.5Gbps Ethernet port for local NAS transfers"
+    ],
+    "cons": [
+      "External 180W power brick is somewhat large"
+    ]
+  },
+  {
+    "id": "tech-012",
+    "name": "Elgato Key Light Air Professional Studio Light",
+    "brand": "Elgato",
+    "category": "desk_tech",
+    "price": 129.99,
+    "currency": "USD",
+    "in_stock": true,
+    "shipping_fee": 0.0,
+    "specs": {
+      "brightness_lumens": 1400,
+      "color_temp": "2900K - 7000K",
+      "connectivity": "Wi-Fi App Controlled",
+      "form_factor": "Desk Stand Included"
+    },
+    "description": "Edge-lit multi-layer diffusion LED panel providing soft, zero-glare, eye-friendly lighting for video meetings and streaming.",
+    "review_summary": "Edge-lit design shines sideways into diffusers so you never get blinded staring into LEDs. Makes webcam look 10x sharper.",
+    "pros": [
+      "Edge-lit diffusion prevents eye fatigue and harsh shadows",
+      "Wi-Fi app control for brightness and warm/cool color temp",
+      "Compact weighted desk stand included"
+    ],
+    "cons": [
+      "Wi-Fi setup requires 2.4GHz network band"
+    ]
+  }
+]
