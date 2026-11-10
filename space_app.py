@@ -1,4 +1,7 @@
 import os
+# Explicitly disable Gradio 5 Node.js SSR proxy to prevent [Errno 98] port 7860 collision with Uvicorn
+os.environ["GRADIO_SSR_MODE"] = "false"
+
 import sys
 from pathlib import Path
 
@@ -56,7 +59,10 @@ demo = gr.Interface(
 demo.queue()
 
 # 4. Mount Gradio interface onto FastAPI app at root "/"
-app = gr.mount_gradio_app(fastapi_app, demo, path="/")
+try:
+    app = gr.mount_gradio_app(fastapi_app, demo, path="/", ssr_mode=False)
+except TypeError:
+    app = gr.mount_gradio_app(fastapi_app, demo, path="/")
 
 if __name__ == "__main__":
     # Report to ZeroGPU broker to satisfy watchdog before Uvicorn starts
