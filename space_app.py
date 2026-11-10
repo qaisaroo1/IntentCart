@@ -8,6 +8,15 @@ backend_dir = root_dir / "backend"
 if str(backend_dir) not in sys.path:
     sys.path.insert(0, str(backend_dir))
 
+# Satisfy Hugging Face ZeroGPU startup scanner
+try:
+    import spaces
+    @spaces.GPU
+    def init_gpu_worker():
+        pass
+except (ImportError, Exception):
+    pass
+
 import gradio as gr
 from app.main import app as fastapi_app
 
@@ -24,9 +33,7 @@ with gr.Blocks(title="IntentCart Backend API Server") as demo:
     )
 
 # Mount Gradio dashboard onto FastAPI
-# This keeps all FastAPI endpoints active on root, with status page available
 app = gr.mount_gradio_app(fastapi_app, demo, path="/status")
 
 if __name__ == "__main__":
-    import uvicorn
-    uvicorn.run(app, host="0.0.0.0", port=7860)
+    demo.launch()
