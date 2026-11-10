@@ -90,7 +90,8 @@ class CaptureOrderRequest(BaseModel):
 # API Endpoints
 # =========================================================================
 
-@app.get("/", tags=["Health"])
+@app.get("/health", tags=["Health"])
+@app.get("/api/health", tags=["Health"])
 def health_check():
     """Health check endpoint to verify backend server & external services status."""
     return {
