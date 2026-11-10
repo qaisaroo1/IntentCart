@@ -8,20 +8,25 @@ backend_dir = root_dir / "backend"
 if str(backend_dir) not in sys.path:
     sys.path.insert(0, str(backend_dir))
 
+# 1. Import spaces FIRST for ZeroGPU environment
+try:
+    import spaces
+    GPU = spaces.GPU
+except ImportError:
+    def GPU(func=None, **kwargs):
+        if func is not None:
+            return func
+        return lambda f: f
+
 import gradio as gr
 import uvicorn
 
-# Try importing spaces for Hugging Face ZeroGPU validation
-try:
-    import spaces
-    has_spaces = True
-except ImportError:
-    has_spaces = False
-
 from app.main import app as fastapi_app
 
-def _execute_search(query: str) -> str:
-    if not query.strip():
+# 2. Main handler decorated with @GPU
+@GPU
+def search_agent_ui(query: str):
+    if not query or not query.strip():
         return "Please enter a search query or product intent (e.g. 'mechanical keyboard under $100')."
     try:
         from app.main import rag_searcher
@@ -38,16 +43,7 @@ def _execute_search(query: str) -> str:
     except Exception as e:
         return f"Agent response: {str(e)}"
 
-# Satisfy Hugging Face ZeroGPU scanner
-if has_spaces:
-    @spaces.GPU
-    def search_agent_ui(query: str):
-        return _execute_search(query)
-else:
-    def search_agent_ui(query: str):
-        return _execute_search(query)
-
-# Create Gradio interface with the decorated handler
+# 3. Create Gradio interface
 demo = gr.Interface(
     fn=search_agent_ui,
     inputs=gr.Textbox(label="IntentCart Natural Language Product Search", placeholder="e.g. Quiet mechanical keyboard under $100"),
@@ -56,8 +52,20 @@ demo = gr.Interface(
     description="Live FastAPI backend endpoints are active at `/api/catalog`, `/api/search`, `/api/agent/chat`, `/api/paypal/*`. Interactive Swagger docs at `/docs`. Health check at `/health`."
 )
 
-# Mount Gradio interface onto FastAPI app at root "/"
+# Enable queue for ZeroGPU
+demo.queue()
+
+# 4. Mount Gradio interface onto FastAPI app at root "/"
 app = gr.mount_gradio_app(fastapi_app, demo, path="/")
 
 if __name__ == "__main__":
+    # Report to ZeroGPU broker to satisfy watchdog before Uvicorn starts
+    try:
+        from spaces import zero as _spaces_zero
+        if hasattr(_spaces_zero, "startup"):
+            _spaces_zero.startup()
+            print("[App] ZeroGPU startup report sent successfully", flush=True)
+    except Exception as error:
+        print(f"[App] ZeroGPU startup note: {error!r}", flush=True)
+
     uvicorn.run(app, host="0.0.0.0", port=7860)
