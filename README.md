@@ -134,3 +134,16 @@ Frontend runs at `http://localhost:5173`.
 
 * **Best Use of Agentic Commerce ($5,000 Cash):** IntentCart is an end-to-end agentic shopping workflow that autonomously handles search, filtering, budget enforcement, cart bundling, and checkout preparation while solving the industry's #1 safety challenge: safe autonomous spending.
 * **Best Use of PayPal + AI ($5,000 Cash):** Directly demonstrates how PayPal's Two-Phase Commit order architecture serves as the safety bridge for autonomous AI systems.
+
+---
+
+## 🌐 Live Deployment
+
+* **Live Frontend Storefront (Vercel):** [https://intent-cart-tan.vercel.app/](https://intent-cart-tan.vercel.app/)
+* **Live Backend API & Swagger Docs (Hugging Face Spaces):** [https://qaisaroo7-intentcart-api.hf.space/docs](https://qaisaroo7-intentcart-api.hf.space/docs)
+
+---
+
+## 📄 License
+
+This project is licensed under the **MIT License** — an OSI-approved open source license. See the [LICENSE](LICENSE) file for full details.
